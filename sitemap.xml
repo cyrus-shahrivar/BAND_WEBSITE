@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.purplegravyband.com/index.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,9 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/about.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_keys.png</image:loc>
@@ -146,6 +143,9 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_guitar110x338.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_textbox1069x1298.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/shows.html</loc>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/media.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1868,7 +1868,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/about.html</loc>
-    <lastmod>2018-01-15</lastmod>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1951,6 +1951,15 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153406.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo92x91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153407.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153408.png</image:loc>
     </image:image>
   </url>
 </urlset>

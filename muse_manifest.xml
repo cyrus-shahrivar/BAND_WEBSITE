@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1516131398895">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1516134641044">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="489339082" ref="about:media:index:shows:gallery"/>
+    <file name="site_global.css" crc="415001655"/>
+    <file name="master_a-master.css" crc="145957968" ref="about:media:index:shows:gallery"/>
     <file name="nomq_preview_master_a-master.css" crc="358332603" ref="about:media:index:shows:gallery"/>
-    <file name="about.css" crc="4272084636" ref="about"/>
-    <file name="nomq_about.css" crc="189603462" ref="about"/>
-    <file name="media.css" crc="3796375114" ref="media"/>
-    <file name="nomq_media.css" crc="376599215" ref="media"/>
-    <file name="index.css" crc="476927402" ref="index"/>
-    <file name="nomq_index.css" crc="4128407239" ref="index"/>
-    <file name="shows.css" crc="4220722593" ref="shows"/>
-    <file name="nomq_shows.css" crc="189900178" ref="shows"/>
-    <file name="gallery.css" crc="61542798" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="4090502077" ref="gallery"/>
+    <file name="about.css" crc="74770064" ref="about"/>
+    <file name="nomq_about.css" crc="458414234" ref="about"/>
+    <file name="media.css" crc="3970027662" ref="media"/>
+    <file name="nomq_media.css" crc="230918711" ref="media"/>
+    <file name="index.css" crc="168264890" ref="index"/>
+    <file name="nomq_index.css" crc="4110747948" ref="index"/>
+    <file name="shows.css" crc="507745553" ref="shows"/>
+    <file name="nomq_shows.css" crc="8022619" ref="shows"/>
+    <file name="gallery.css" crc="4148034493" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="3885037013" ref="gallery"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:shows:media:gallery:about"/>
@@ -20,7 +20,7 @@
     <file name="whatinput.js" crc="86476730" ref="index:shows:media:gallery:about"/>
     <file name="museconfig.js" crc="380897831" ref="index:shows:media:gallery:about"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:shows:media:gallery:about"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:gallery:about"/>
     <file name="webpro.js" crc="242022427" ref="index:shows:media:gallery:about"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index:shows:media:gallery:about"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:shows:media:gallery:about"/>
@@ -28,10 +28,6 @@
     <file name="musewpslideshow.js" crc="457073769" ref="gallery"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="gallery"/>
     <file name="touchswipe.js" crc="4066113679" ref="gallery"/>
-    <file name="form_check.php" crc="147359589" ref="about"/>
-    <file name="form_throttle.php" crc="93986428" ref="about"/>
-    <file name="form_process.php" crc="3851993751" ref="about"/>
-    <file name="form-u15347.php" crc="4285971394" ref="about"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="379041748" ref="index"/>
@@ -59,7 +55,7 @@
       <caption webpage="gallery" alt=""/>
       <caption webpage="media" alt=""/>
     </file>
-    <file name="gallery.png" crc="4096903803" seo="true" ref="index:shows:media:gallery:about">
+    <file name="gallery.png" crc="109022563" seo="true" ref="index:shows:media:gallery:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
@@ -75,9 +71,6 @@
       <caption webpage="gallery" alt=""/>
       <caption webpage="media" alt=""/>
     </file>
-    <file name="p_textbox.png" crc="234307174" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="p_keys.png" crc="4004039966" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -90,6 +83,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -110,6 +104,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
@@ -127,6 +122,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
@@ -137,10 +133,11 @@
       <caption webpage="media" alt=""/>
       <caption webpage="media" alt=""/>
     </file>
-    <file name="gallery-crop-u1805.png" crc="148777024" seo="true" ref="index:shows:media:gallery:about">
+    <file name="gallery-crop-u1805.png" crc="297482711" seo="true" ref="index:shows:media:gallery:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -161,6 +158,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
@@ -171,7 +169,7 @@
       <caption webpage="media" alt=""/>
       <caption webpage="media" alt=""/>
     </file>
-    <file name="p_textbox875x1062.png" crc="3943701615" seo="true" ref="index">
+    <file name="p_textbox875x1062.png" crc="3980116622" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo453x448.png" crc="3864978856" seo="true" ref="index">
@@ -183,7 +181,7 @@
     <file name="p_guitar307x949.png" crc="4228562039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p_textbox680x825.png" crc="352400711" seo="true" ref="index">
+    <file name="p_textbox680x825.png" crc="4040454405" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo352x348.png" crc="4065556014" seo="true" ref="index">
@@ -195,7 +193,7 @@
     <file name="p_guitar239x737.png" crc="3992110860" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p_textbox566x687.png" crc="253129802" seo="true" ref="index">
+    <file name="p_textbox566x687.png" crc="3916764449" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo293x290.png" crc="525495618" seo="true" ref="index">
@@ -207,21 +205,26 @@
     <file name="p_guitar199x614.png" crc="4170977676" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="burger white.png" crc="529095027" ref="index:gallery">
+    <file name="burger white.png" crc="529095027" ref="index:gallery:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="x-mark-elections white.png" crc="3947599790" ref="index:gallery">
+    <file name="x-mark-elections white.png" crc="3947599790" ref="index:gallery:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="home-crop-u1965.png" crc="4146105149" seo="true" ref="index:shows:media:gallery:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
@@ -237,6 +240,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="gallery" alt=""/>
@@ -245,9 +249,10 @@
       <caption webpage="media" alt=""/>
       <caption webpage="media" alt=""/>
     </file>
-    <file name="gallery-crop-u1971.png" crc="488832420" seo="true" ref="index:shows:media:gallery:about">
+    <file name="gallery-crop-u1971.png" crc="26596053" seo="true" ref="index:shows:media:gallery:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
@@ -263,6 +268,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="shows" alt=""/>
       <caption webpage="gallery" alt=""/>
@@ -271,7 +277,7 @@
       <caption webpage="media" alt=""/>
       <caption webpage="media" alt=""/>
     </file>
-    <file name="p_textbox486x590.png" crc="4194497106" seo="true" ref="index">
+    <file name="p_textbox486x590.png" crc="112261103" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo252x249.png" crc="221484434" seo="true" ref="index">
@@ -284,31 +290,31 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:shows:media:gallery:about"/>
-    <file name="p_textbox-crop-u2316.png" crc="3948180295" seo="true" ref="shows">
+    <file name="p_textbox-crop-u2316.png" crc="86969448" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_pglogo381x377.png" crc="4261041689" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
-    <file name="p_textbox-crop-u23162.png" crc="4041314601" seo="true" ref="shows">
+    <file name="p_textbox-crop-u23162.png" crc="163972725" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_pglogo245x243.png" crc="86467671" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
-    <file name="p_textbox-crop-u23163.png" crc="4195907434" seo="true" ref="shows">
+    <file name="p_textbox-crop-u23163.png" crc="366063483" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_pglogo191x189.png" crc="4270234728" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
-    <file name="p_textbox-crop-u23164.png" crc="3767699157" seo="true" ref="shows">
+    <file name="p_textbox-crop-u23164.png" crc="93009337" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_pglogo159x157.png" crc="222709757" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
-    <file name="p_textbox-crop-u23165.png" crc="4063438068" seo="true" ref="shows">
+    <file name="p_textbox-crop-u23165.png" crc="4135896331" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_pglogo137x135.png" crc="3859236557" seo="true" ref="shows">
@@ -323,7 +329,8 @@
     <file name="p_pglogo197x195.png" crc="4133617346" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="p_pglogo164x162.png" crc="4016973136" seo="true" ref="about">
+    <file name="p_pglogo164x162.png" crc="3894428262" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="p_pglogo141x139.png" crc="12409872" seo="true" ref="about">
@@ -333,7 +340,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p_textbox-crop-u1083.png" crc="3856970735" seo="true" ref="index">
+    <file name="p_textbox-crop-u1083.png" crc="4032153869" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo507x501.png" crc="4097246984" seo="true" ref="index">
@@ -363,6 +370,7 @@
       <caption webpage="shows" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
@@ -376,7 +384,7 @@
     <file name="p_backdrop321x1061.png" crc="3765234884" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p_textbox311x378.png" crc="3802299469" seo="true" ref="index">
+    <file name="p_textbox311x378.png" crc="7046771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo161x160.png" crc="3871530641" seo="true" ref="index">
@@ -394,7 +402,7 @@
     <file name="u3837-43.png" crc="4200692849" ref="shows"/>
     <file name="u3837-44.png" crc="506505618" ref="shows"/>
     <file name="u3837-45.png" crc="4035780856" ref="shows"/>
-    <file name="p_textbox-crop-u23166.png" crc="4156279529" seo="true" ref="shows">
+    <file name="p_textbox-crop-u23166.png" crc="82149607" seo="true" ref="shows">
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_pglogo88x87.png" crc="3790970871" seo="true" ref="shows">
@@ -2003,43 +2011,53 @@
     <file name="u6155-47.png" crc="4282099977" ref="gallery"/>
     <file name="u6159-47.png" crc="101359616" ref="gallery"/>
     <file name="u6162-47.png" crc="526761323" ref="gallery"/>
-    <file name="p_textbox-crop-u15340.png" crc="390427494" seo="true" ref="about">
+    <file name="p_textbox-crop-u15340.png" crc="490070006" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u15488-4.png" crc="386560729" ref="about"/>
-    <file name="u15485-6.png" crc="366835399" ref="about"/>
-    <file name="p_textbox-crop-u153402.png" crc="187145000" seo="true" ref="about">
+    <file name="u15485-6.png" crc="3918448832" ref="about"/>
+    <file name="p_textbox-crop-u153402.png" crc="3987480725" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u15488-42.png" crc="387850318" ref="about"/>
-    <file name="u15485-62.png" crc="3934694269" ref="about"/>
-    <file name="p_textbox-crop-u153403.png" crc="256600936" seo="true" ref="about">
+    <file name="u15485-62.png" crc="4192312532" ref="about"/>
+    <file name="p_textbox-crop-u153403.png" crc="3984497047" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u15488-43.png" crc="4241724431" ref="about"/>
-    <file name="u15485-63.png" crc="299061061" ref="about"/>
-    <file name="p_textbox-crop-u153404.png" crc="4193644875" seo="true" ref="about">
+    <file name="p_textbox-crop-u153404.png" crc="51250066" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u15488-44.png" crc="4073404163" ref="about"/>
-    <file name="u15485-64.png" crc="334484954" ref="about"/>
-    <file name="p_textbox-crop-u153405.png" crc="3902515471" seo="true" ref="about">
+    <file name="p_textbox-crop-u153405.png" crc="3986813659" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u15488-45.png" crc="337965457" ref="about"/>
-    <file name="u15485-65.png" crc="191277480" ref="about"/>
     <file name="p_pglogo90x89.png" crc="315889598" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="p_textbox-crop-u153406.png" crc="3814134136" seo="true" ref="about">
+    <file name="p_textbox-crop-u153406.png" crc="304752271" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u15488-46.png" crc="4265347722" ref="about"/>
-    <file name="u15485-66.png" crc="497545031" ref="about"/>
+    <file name="p_textbox1069x1298.png" crc="3840832959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u25881-13.png" crc="380741386" ref="about"/>
+    <file name="u25881-132.png" crc="527237327" ref="about"/>
+    <file name="u25366-13.png" crc="479403970" ref="about"/>
+    <file name="u25366-132.png" crc="4107076218" ref="about"/>
+    <file name="u25366-133.png" crc="4107076218" ref="about"/>
+    <file name="u25366-134.png" crc="3946488274" ref="about"/>
+    <file name="p_pglogo92x91.png" crc="3926781500" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="p_textbox-crop-u153407.png" crc="422754790" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u25366-135.png" crc="470589865" ref="about"/>
+    <file name="p_textbox-crop-u153408.png" crc="227916330" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u25366-136.png" crc="4167881187" ref="about"/>
   </folder>
-  <file name="index.html" crc="3853033036" seo="true" mt="1516044886267" redirect="true"/>
-  <file name="shows.html" crc="488198986" seo="true" mt="1516131110758" redirect="true"/>
-  <file name="media.html" crc="137014413" seo="true" mt="1516045485774" redirect="true"/>
-  <file name="gallery.html" crc="4185598813" seo="true" mt="1516131241893" redirect="true"/>
-  <file name="about.html" crc="220083402" seo="true" mt="1516044886267" redirect="true"/>
+  <file name="index.html" crc="142308124" seo="true" mt="1516133634447" redirect="true"/>
+  <file name="shows.html" crc="110549214" seo="true" mt="1516133634475" redirect="true"/>
+  <file name="media.html" crc="4149774339" seo="true" mt="1516133634447" redirect="true"/>
+  <file name="gallery.html" crc="336596357" seo="true" mt="1516133634447" redirect="true"/>
+  <file name="about.html" crc="161264851" seo="true" mt="1516134526438" redirect="true"/>
 </manifest>
