@@ -60,9 +60,6 @@
       <image:loc>http://www.purplegravyband.com/images/p_pglogo352x348.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys236x748.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_guitar239x737.png</image:loc>
     </image:image>
     <image:image>
@@ -96,13 +93,7 @@
       <image:loc>http://www.purplegravyband.com/images/p_pglogo252x249.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys169x536.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_guitar171x528.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop1400x1981.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u1083.png</image:loc>
@@ -114,37 +105,34 @@
       <image:loc>http://www.purplegravyband.com/images/p_pglogo554x548.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop898x1776.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop710x1715.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop581x1192.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop500x1153.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop321x1061.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox311x378.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo161x160.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys108x343.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_guitar110x338.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox1069x1298.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop1164x2302.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_keys237x748.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_keys169x535.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u10832.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_keys109x343.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -210,19 +198,10 @@
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23163.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo191x189.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23164.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo159x157.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23165.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo137x135.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
@@ -231,7 +210,22 @@
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23166.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo88x87.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo211x209.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo210x208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo249x246.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23167.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo190x189.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -301,6 +295,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo175x173.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1865,6 +1862,9 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219177.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/about.html</loc>
@@ -1914,15 +1914,6 @@
       <image:loc>http://www.purplegravyband.com/images/about-crop-u1973.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo394x389.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo253x251.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo197x195.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo164x162.png</image:loc>
     </image:image>
     <image:image>
@@ -1960,6 +1951,24 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153408.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo449x445.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo289x286.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo227x224.png</image:loc>
     </image:image>
   </url>
 </urlset>
