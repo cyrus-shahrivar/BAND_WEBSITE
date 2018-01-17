@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.purplegravyband.com/index.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -302,7 +302,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/gallery.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -349,6 +349,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo114x113.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo514x509.png</image:loc>
@@ -558,24 +561,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_band.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u21553.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u21864.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u21917.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u21902.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo383x380.png</image:loc>
     </image:image>
     <image:image>
@@ -756,21 +741,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214252.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218642.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219172.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u21550.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219022.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo298x295.png</image:loc>
     </image:image>
     <image:image>
@@ -949,21 +919,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214403.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215502.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219023.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215533.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218643.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219173.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo248x246.png</image:loc>
@@ -1173,24 +1128,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214404.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215503.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal511x340.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219024.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215534.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218644.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219174.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo236x233.png</image:loc>
     </image:image>
     <image:image>
@@ -1396,24 +1333,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214405.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215504.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u21849.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219025.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215535.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218645.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219175.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo117x116.png</image:loc>
@@ -1623,24 +1542,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214936.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215505.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218492.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219026.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215536.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218646.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219176.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u191583.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1843,24 +1744,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214937.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215506.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219027.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/snare%20skin-crop-u215537.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehersal-crop-u218647.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/rehearsal-crop-u219177.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
