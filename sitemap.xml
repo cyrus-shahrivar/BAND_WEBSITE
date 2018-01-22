@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.purplegravyband.com/index.html</loc>
-    <lastmod>2018-01-17</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -120,9 +120,6 @@
       <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop1164x2302.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_keys237x748.png</image:loc>
     </image:image>
     <image:image>
@@ -134,10 +131,13 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_keys109x343.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/shows.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -216,21 +216,18 @@
       <image:loc>http://www.purplegravyband.com/images/p_pglogo211x209.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo210x208.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo249x246.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23167.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo190x189.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/media.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -299,10 +296,13 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/gallery.html</loc>
-    <lastmod>2018-01-17</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -351,9 +351,6 @@
       <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo114x113.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo514x509.png</image:loc>
     </image:image>
     <image:image>
@@ -364,12 +361,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u19913.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u20125.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u20337.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u20549.jpg</image:loc>
@@ -390,9 +381,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u20390.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u20602.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u19595.jpg</image:loc>
     </image:image>
     <image:image>
@@ -408,16 +396,10 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u20443.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u20655.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u19648.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u19860.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u20072.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u20284.jpg</image:loc>
@@ -462,12 +444,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u20004.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u20057.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u20110.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4.jpg</image:loc>
     </image:image>
     <image:image>
@@ -475,9 +451,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u20269.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u20375.jpg</image:loc>
@@ -492,16 +465,7 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u20534.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u20587.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u20693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u20787.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u21175.jpg</image:loc>
@@ -511,12 +475,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u21493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u21069.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u21228.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u21387.jpg</image:loc>
@@ -531,19 +489,10 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u21440.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u21107.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u21213.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u21266.jpg</image:loc>
@@ -558,9 +507,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u21425.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo383x380.png</image:loc>
     </image:image>
     <image:image>
@@ -571,12 +517,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u199132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201252.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203372.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205492.jpg</image:loc>
@@ -597,9 +537,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203902.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u206022.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u195952.jpg</image:loc>
     </image:image>
     <image:image>
@@ -615,16 +552,10 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204432.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206552.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u196482.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u198602.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200722.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202842.jpg</image:loc>
@@ -663,12 +594,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200042.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200572.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201102.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202162.jpg</image:loc>
     </image:image>
     <image:image>
@@ -687,13 +612,7 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205342.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u205872.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u206932.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207872.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211752.jpg</image:loc>
@@ -703,12 +622,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214932.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212282.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u213872.jpg</image:loc>
@@ -724,9 +637,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211072.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212132.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212662.jpg</image:loc>
@@ -771,12 +681,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200043.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200573.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201103.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202163.jpg</image:loc>
     </image:image>
     <image:image>
@@ -795,9 +699,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205343.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u205873.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u206933.jpg</image:loc>
     </image:image>
     <image:image>
@@ -808,12 +709,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u199133.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201253.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203373.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205493.jpg</image:loc>
@@ -834,9 +729,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203903.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u206023.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u195953.jpg</image:loc>
     </image:image>
     <image:image>
@@ -852,16 +744,10 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204433.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206553.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u196483.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u198603.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200723.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202843.jpg</image:loc>
@@ -876,9 +762,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211073.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212133.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212663.jpg</image:loc>
     </image:image>
     <image:image>
@@ -891,9 +774,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214253.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207873.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211753.jpg</image:loc>
     </image:image>
     <image:image>
@@ -901,12 +781,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214933.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212283.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u213873.jpg</image:loc>
@@ -919,12 +793,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214403.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo248x246.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar453x340.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u195274.jpg</image:loc>
@@ -945,9 +813,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u197924.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u198984.jpg</image:loc>
     </image:image>
     <image:image>
@@ -957,22 +822,10 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200044.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200574.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201104.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202164.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3453x340.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203754.jpg</image:loc>
@@ -987,12 +840,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205344.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u205874.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u206934.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1003,12 +850,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u199134.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201254.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203374.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205494.jpg</image:loc>
@@ -1029,9 +870,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203904.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u206024.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u195954.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1047,16 +885,10 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204434.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206554.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u196484.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u198604.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200724.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202844.jpg</image:loc>
@@ -1068,19 +900,7 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u207084.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211074.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212134.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212664.jpg</image:loc>
@@ -1095,12 +915,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214254.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band453x340.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207874.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211754.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1108,12 +922,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214934.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212284.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u213874.jpg</image:loc>
@@ -1143,16 +951,10 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u199665.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201255.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202845.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204435.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u206025.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u195425.jpg</image:loc>
@@ -1170,13 +972,7 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u201785.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203375.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u204965.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206555.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u195955.jpg</image:loc>
@@ -1186,9 +982,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u199135.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200725.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202315.jpg</image:loc>
@@ -1236,12 +1029,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200045.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200575.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201105.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u20163.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1249,9 +1036,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u20322.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203755.jpg</image:loc>
@@ -1266,28 +1050,13 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205345.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u205875.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u20640.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u206935.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u20784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u21054.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211075.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u21160.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212135.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212665.jpg</image:loc>
@@ -1305,9 +1074,6 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u21478.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207875.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211755.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1315,12 +1081,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214935.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212285.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u213875.jpg</image:loc>
@@ -1371,12 +1131,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200046.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200576.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201106.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u201632.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1384,9 +1138,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203222.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203756.jpg</image:loc>
@@ -1399,12 +1150,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205346.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u205876.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206402.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u206936.jpg</image:loc>
@@ -1428,22 +1173,13 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200196.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201256.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202316.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203376.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204436.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205496.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206556.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u195426.jpg</image:loc>
@@ -1461,9 +1197,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u199666.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200726.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u201786.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1476,25 +1209,13 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u204966.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u206026.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u207086.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207842.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210542.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211076.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211602.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212136.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212666.jpg</image:loc>
@@ -1512,22 +1233,13 @@
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214782.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207876.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211226.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212286.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u213346.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214406.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210696.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211756.jpg</image:loc>
@@ -1545,213 +1257,36 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u191583.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u195277.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u195807.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u196337.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u196867.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u197397.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u197927.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u198453.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u198987.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u199517.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200047.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200577.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201107.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u201633.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203223.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203757.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204287.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u204817.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205347.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u205877.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206403.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u206937.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u191617.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u195957.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u197017.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u198077.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u199137.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u200197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb-crop-u201257.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u202317.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u203377.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u204437.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u205497.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_group-crop-u206557.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u195427.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u196487.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u197547.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u198607.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u199667.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_funkyb2-crop-u200727.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u201787.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u202847.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u203907.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u204967.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u206027.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u207087.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207843.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210543.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211077.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211603.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212137.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212667.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u213197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u213727.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214257.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214783.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug1-crop-u207877.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u211227.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_funkyb-crop-u212287.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u213347.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u214407.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u210697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u211757.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u212817.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u213877.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u214937.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band700x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1544x408.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band544x408.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/about.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1833,9 +1368,6 @@
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153407.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153408.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
     </image:image>
     <image:image>
@@ -1852,6 +1384,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo227x224.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
     </image:image>
   </url>
 </urlset>
