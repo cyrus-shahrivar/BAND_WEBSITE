@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1517111120062">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1517198757152">
   <folder name="css">
-    <file name="site_global.css" crc="415001655"/>
-    <file name="master_a-master.css" crc="518842808" ref="index:shows:pics:contact:video"/>
+    <file name="site_global.css" crc="4047703046"/>
+    <file name="master_a-master.css" crc="222387127" ref="index:shows:pics:contact:video"/>
     <file name="nomq_preview_master_a-master.css" crc="4232801354" ref="index:shows:pics:contact:video"/>
-    <file name="index.css" crc="3897386406" ref="index"/>
+    <file name="index.css" crc="4023821941" ref="index"/>
     <file name="nomq_index.css" crc="4179827949" ref="index"/>
-    <file name="shows.css" crc="175299051" ref="shows"/>
+    <file name="shows.css" crc="490022151" ref="shows"/>
     <file name="nomq_shows.css" crc="4191878775" ref="shows"/>
-    <file name="pics.css" crc="423282969" ref="pics"/>
-    <file name="nomq_pics.css" crc="299783123" ref="pics"/>
-    <file name="contact.css" crc="89591222" ref="contact"/>
+    <file name="pics.css" crc="187633596" ref="pics"/>
+    <file name="nomq_pics.css" crc="3777220411" ref="pics"/>
+    <file name="contact.css" crc="3969592975" ref="contact"/>
     <file name="nomq_contact.css" crc="311412070" ref="contact"/>
-    <file name="video.css" crc="4190736677" ref="video"/>
+    <file name="video.css" crc="222114933" ref="video"/>
     <file name="nomq_video.css" crc="4203068503" ref="video"/>
   </folder>
   <folder name="scripts">
@@ -35,17 +35,17 @@
     <file name="a-master-favicon.ico" crc="379041748" ref="index"/>
     <file name="burger white.png" crc="318544191" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="x-mark-elections white.png" crc="3758601610" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:shows:video:pics:contact"/>
     <file name="p_textbox-crop-u2316.png" crc="4104759566" seo="true" ref="shows">
@@ -64,10 +64,6 @@
       <caption webpage="shows" alt=""/>
     </file>
     <file name="p_textbox-crop-u1083.png" crc="69978705" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="p_pglogo127x125.png" crc="293772280" seo="true" ref="index">
-      <caption webpage="media" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bitterend_sattamguitar.jpg" crc="381360636" seo="true" ref="pics">
@@ -93,99 +89,99 @@
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="p_textbox-crop-u15340.png" crc="470789677" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="p_textbox-crop-u153402.png" crc="67926420" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="p_textbox-crop-u153403.png" crc="231654071" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="p_textbox-crop-u153404.png" crc="277688846" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="p_textbox-crop-u153405.png" crc="150870413" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="p_textbox-crop-u10832.png" crc="436273327" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p_pglogo211x209.png" crc="4056054826" seo="true" ref="video">
-      <caption webpage="shows" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="shows" alt=""/>
     </file>
     <file name="facebook.png" crc="3879210895" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="instagram.png" crc="343465390" seo="true" ref="contact">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="p_backdrop-crop-u94.png" crc="3968624715" seo="true" ref="index:shows:video:pics:contact">
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="shows" alt=""/>
+      <caption webpage="shows" alt=""/>
+      <caption webpage="shows" alt=""/>
+      <caption webpage="shows" alt=""/>
+      <caption webpage="shows" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
       <caption webpage="gallery" alt=""/>
-      <caption webpage="shows" alt=""/>
-      <caption webpage="shows" alt=""/>
-      <caption webpage="shows" alt=""/>
-      <caption webpage="shows" alt=""/>
-      <caption webpage="shows" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="alphabet_band.jpg" crc="4187569434" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
@@ -1263,10 +1259,13 @@
       <caption webpage="contact" alt=""/>
     </file>
     <file name="u25366-12.png" crc="140747772" ref="contact"/>
+    <file name="p_pglogo126x125.png" crc="293772280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4159763582" seo="true" mt="1517111069185" redirect="true"/>
-  <file name="shows.html" crc="4244683861" seo="true" mt="1517111069185" redirect="true"/>
-  <file name="video.html" crc="4289088234" seo="true" mt="1517111069185" redirect="true"/>
-  <file name="pics.html" crc="524944122" seo="true" mt="1517111069185" redirect="true"/>
-  <file name="contact.html" crc="3847268493" seo="true" mt="1517111069185" redirect="true"/>
+  <file name="index.html" crc="271368859" seo="true" mt="1517198677428" redirect="true"/>
+  <file name="shows.html" crc="483977291" seo="true" mt="1517198688724" redirect="true"/>
+  <file name="video.html" crc="456777116" seo="true" mt="1517198677428" redirect="true"/>
+  <file name="pics.html" crc="3967344767" seo="true" mt="1517198677428" redirect="true"/>
+  <file name="contact.html" crc="4108800681" seo="true" mt="1517198677428" redirect="true"/>
 </manifest>
