@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.purplegravyband.com/index.html</loc>
-    <lastmod>2018-01-27</lastmod>
+    <lastmod>2018-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u1083.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo127x125.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_pglogo298x295.png</image:loc>
@@ -62,10 +59,13 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/p_textbox.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/p_pglogo126x125.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/shows.html</loc>
-    <lastmod>2018-01-27</lastmod>
+    <lastmod>2018-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/video.html</loc>
-    <lastmod>2018-01-27</lastmod>
+    <lastmod>2018-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +125,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/pics.html</loc>
-    <lastmod>2018-01-27</lastmod>
+    <lastmod>2018-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -920,7 +920,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/contact.html</loc>
-    <lastmod>2018-01-27</lastmod>
+    <lastmod>2018-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
