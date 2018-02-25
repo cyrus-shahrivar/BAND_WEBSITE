@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519584022096">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519587491657">
   <folder name="css">
     <file name="site_global.css" crc="3949668379"/>
     <file name="master_purplegravy.css" crc="133144990" ref="index:videos:about:pics"/>
@@ -7,8 +7,8 @@
     <file name="nomq_index.css" crc="3897040896" ref="index"/>
     <file name="videos.css" crc="449599685" ref="videos"/>
     <file name="nomq_videos.css" crc="4219208601" ref="videos"/>
-    <file name="about.css" crc="25571046" ref="about"/>
-    <file name="nomq_about.css" crc="4110021408" ref="about"/>
+    <file name="about.css" crc="4040783622" ref="about"/>
+    <file name="nomq_about.css" crc="4245028650" ref="about"/>
     <file name="pics.css" crc="4253273988" ref="pics"/>
     <file name="nomq_pics.css" crc="451521742" ref="pics"/>
   </folder>
@@ -84,8 +84,9 @@
     <file name="pg disco212x215.png" crc="3936027432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics">
+    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="pics" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:pics:videos:about"/>
@@ -1398,5 +1399,5 @@
   <file name="index.html" crc="147997389" seo="true" mt="1519582570777" redirect="true"/>
   <file name="pics.html" crc="513455297" seo="true" mt="1519583966371" redirect="true"/>
   <file name="videos.html" crc="155670949" seo="true" mt="1519582486454" redirect="true"/>
-  <file name="about.html" crc="4232617332" seo="true" mt="1519582370713" redirect="true"/>
+  <file name="about.html" crc="4267823379" seo="true" mt="1519587451407" redirect="true"/>
 </manifest>
