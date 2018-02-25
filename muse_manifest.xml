@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519588315136">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519589085380">
   <folder name="css">
     <file name="site_global.css" crc="3949668379"/>
     <file name="master_purplegravy.css" crc="133144990" ref="index:videos:about:pics"/>
     <file name="nomq_preview_master_purplegravy.css" crc="3824530138" ref="index:videos:about:pics"/>
-    <file name="index.css" crc="286447078" ref="index"/>
+    <file name="index.css" crc="191069482" ref="index"/>
     <file name="nomq_index.css" crc="3897040896" ref="index"/>
     <file name="videos.css" crc="449599685" ref="videos"/>
     <file name="nomq_videos.css" crc="4219208601" ref="videos"/>
-    <file name="about.css" crc="3806835023" ref="about"/>
-    <file name="nomq_about.css" crc="4260399387" ref="about"/>
+    <file name="about.css" crc="259100192" ref="about"/>
+    <file name="nomq_about.css" crc="4075327723" ref="about"/>
     <file name="pics.css" crc="415878254" ref="pics"/>
     <file name="nomq_pics.css" crc="473574050" ref="pics"/>
   </folder>
@@ -45,7 +45,7 @@
       <caption webpage="pics" alt=""/>
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="pg disco.png" crc="390601542" seo="true" ref="index">
+    <file name="pg disco.png" crc="103841776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="footer.png" crc="4147312291" seo="true" ref="index:pics:videos:about">
@@ -57,9 +57,6 @@
       <caption webpage="about" alt=""/>
       <caption webpage="pics" alt=""/>
       <caption webpage="pics" alt=""/>
-    </file>
-    <file name="pg disco317x322.png" crc="3816301083" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="burger white.png" crc="494788321" ref="index:pics:videos:about">
       <caption webpage="index" alt=""/>
@@ -81,10 +78,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="pg disco212x215.png" crc="3936027432" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics">
+    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics:about">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="pics" alt=""/>
@@ -1395,9 +1389,15 @@
     <file name="_dsc8333_wm273x183.jpg" crc="3834244958" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
+    <file name="pg disco409x415.png" crc="4119433650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pg disco324x330.png" crc="3846009976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="147997389" seo="true" mt="1519582570777" redirect="true"/>
+  <file name="index.html" crc="345924918" seo="true" mt="1519589059190" redirect="true"/>
   <file name="pics.html" crc="4107024409" seo="true" mt="1519588102083" redirect="true"/>
   <file name="videos.html" crc="155670949" seo="true" mt="1519582486454" redirect="true"/>
-  <file name="about.html" crc="145805145" seo="true" mt="1519588279383" redirect="true"/>
+  <file name="about.html" crc="3795842693" seo="true" mt="1519588434671" redirect="true"/>
 </manifest>
