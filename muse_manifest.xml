@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519587491657">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519588315136">
   <folder name="css">
     <file name="site_global.css" crc="3949668379"/>
     <file name="master_purplegravy.css" crc="133144990" ref="index:videos:about:pics"/>
@@ -7,10 +7,10 @@
     <file name="nomq_index.css" crc="3897040896" ref="index"/>
     <file name="videos.css" crc="449599685" ref="videos"/>
     <file name="nomq_videos.css" crc="4219208601" ref="videos"/>
-    <file name="about.css" crc="4040783622" ref="about"/>
-    <file name="nomq_about.css" crc="4245028650" ref="about"/>
-    <file name="pics.css" crc="4253273988" ref="pics"/>
-    <file name="nomq_pics.css" crc="451521742" ref="pics"/>
+    <file name="about.css" crc="3806835023" ref="about"/>
+    <file name="nomq_about.css" crc="4260399387" ref="about"/>
+    <file name="pics.css" crc="415878254" ref="pics"/>
+    <file name="nomq_pics.css" crc="473574050" ref="pics"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pics:videos:about"/>
@@ -84,7 +84,7 @@
     <file name="pg disco212x215.png" crc="3936027432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics:about">
+    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="pics" alt=""/>
@@ -282,7 +282,7 @@
     <file name="_dsc8340_wm-crop-u5986.jpg" crc="297610551" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="_dsc8428_wm-crop-u5076.jpg" crc="126164700" seo="true" ref="pics">
+    <file name="_dsc8428_wm-crop-u5076.jpg" crc="4155574866" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="_dsc8415_wm-crop-u5232.jpg" crc="156772196" seo="true" ref="pics">
@@ -327,7 +327,7 @@
     <file name="_dsc8422_wm-crop-u5128.jpg" crc="536428436" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="_dsc8407_wm-crop-u5284.jpg" crc="4268296025" seo="true" ref="pics">
+    <file name="_dsc8407_wm-crop-u5284.jpg" crc="3872942510" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="_dsc8394_wm-crop-u5440.jpg" crc="349692355" seo="true" ref="pics">
@@ -709,7 +709,7 @@
     <file name="_dsc8340_wm-crop-u59862.jpg" crc="505643817" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="_dsc8428_wm-crop-u50762.jpg" crc="161968785" seo="true" ref="pics">
+    <file name="_dsc8428_wm-crop-u50762.jpg" crc="4270085313" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="_dsc8415_wm-crop-u52322.jpg" crc="3969488211" seo="true" ref="pics">
@@ -754,7 +754,7 @@
     <file name="_dsc8422_wm-crop-u51282.jpg" crc="4225547498" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="_dsc8407_wm-crop-u52842.jpg" crc="4132690623" seo="true" ref="pics">
+    <file name="_dsc8407_wm-crop-u52842.jpg" crc="42308295" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="_dsc8394_wm-crop-u54402.jpg" crc="371111029" seo="true" ref="pics">
@@ -859,7 +859,7 @@
     <file name="alphabet_sattamguitar211x282.jpg" crc="459724762" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="bitterend_sattamguitar-crop-u63062.jpg" crc="97695743" seo="true" ref="pics">
+    <file name="bitterend_sattamguitar-crop-u63062.jpg" crc="305242946" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="bitterend_band1-crop-u66822.jpg" crc="151570550" seo="true" ref="pics">
@@ -1397,7 +1397,7 @@
     </file>
   </folder>
   <file name="index.html" crc="147997389" seo="true" mt="1519582570777" redirect="true"/>
-  <file name="pics.html" crc="513455297" seo="true" mt="1519583966371" redirect="true"/>
+  <file name="pics.html" crc="4107024409" seo="true" mt="1519588102083" redirect="true"/>
   <file name="videos.html" crc="155670949" seo="true" mt="1519582486454" redirect="true"/>
-  <file name="about.html" crc="4267823379" seo="true" mt="1519587451407" redirect="true"/>
+  <file name="about.html" crc="145805145" seo="true" mt="1519588279383" redirect="true"/>
 </manifest>
