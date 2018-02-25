@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519582986728">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519584022096">
   <folder name="css">
     <file name="site_global.css" crc="3949668379"/>
     <file name="master_purplegravy.css" crc="133144990" ref="index:videos:about:pics"/>
@@ -9,8 +9,8 @@
     <file name="nomq_videos.css" crc="4219208601" ref="videos"/>
     <file name="about.css" crc="25571046" ref="about"/>
     <file name="nomq_about.css" crc="4110021408" ref="about"/>
-    <file name="pics.css" crc="3924782473" ref="pics"/>
-    <file name="nomq_pics.css" crc="255411889" ref="pics"/>
+    <file name="pics.css" crc="4253273988" ref="pics"/>
+    <file name="nomq_pics.css" crc="451521742" ref="pics"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pics:videos:about"/>
@@ -84,8 +84,9 @@
     <file name="pg disco212x215.png" crc="3936027432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="footer500x209.png" crc="346203364" seo="true" ref="index">
+    <file name="footer500x209.png" crc="346203364" seo="true" ref="index:pics">
       <caption webpage="index" alt=""/>
+      <caption webpage="pics" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:pics:videos:about"/>
     <file name="pics-favicon.ico" crc="4149986414" ref="pics"/>
@@ -944,132 +945,6 @@
     <file name="alphabet_bandhug-crop-u72542.jpg" crc="3855306302" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="_dsc8435_wm281x188.jpg" crc="216811732" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8432_wm126x188.jpg" crc="3771342929" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8431_wm126x188.jpg" crc="369586958" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8428_wm126x188.jpg" crc="50338437" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8426_wm281x188.jpg" crc="283441595" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8422_wm281x188.jpg" crc="3779917704" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8419_wm281x188.jpg" crc="3954109181" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8418_wm281x188.jpg" crc="340929695" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8417_wm281x188.jpg" crc="3857264860" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8415_wm281x188.jpg" crc="407997689" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8409_wm281x188.jpg" crc="440432570" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8407_wm126x188.jpg" crc="4136212241" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8404_wm281x188.jpg" crc="3915175953" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8403_wm281x188.jpg" crc="408696759" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8400_wm281x188.jpg" crc="11835151" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8397_wm281x188.jpg" crc="3792197431" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8395_wm281x188.jpg" crc="439907414" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8394_wm281x188.jpg" crc="3906402541" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8385_wm281x188.jpg" crc="287774647" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8384_wm281x188.jpg" crc="4182968705" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8382_wm281x188.jpg" crc="525899830" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8381_wm281x188.jpg" crc="40611999" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8378_wm281x188.jpg" crc="3803928394" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8374_wm281x188.jpg" crc="4112668840" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8373_wm281x188.jpg" crc="364767529" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8370_wm281x188.jpg" crc="515763382" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8367_wm126x188.jpg" crc="4003976876" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8365_wm281x188.jpg" crc="3873354781" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8362_wm281x188.jpg" crc="3874816097" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8357_wm281x188.jpg" crc="4122452751" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8355_wm281x188.jpg" crc="4165834376" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8353_wm281x188.jpg" crc="4200298895" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8354_wm281x188.jpg" crc="4213942257" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8352_wm281x188.jpg" crc="244939730" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8351_wm281x188.jpg" crc="3889859731" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8348_wm281x188.jpg" crc="4260539961" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8343_wm281x188.jpg" crc="196564300" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8342_wm281x188.jpg" crc="3780994648" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8340_wm281x188.jpg" crc="141523674" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8339_wm281x188.jpg" crc="4141469403" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8334_wm281x188.jpg" crc="438930168" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
-    <file name="_dsc8333_wm281x188.jpg" crc="3830585975" seo="true" ref="pics">
-      <caption webpage="pics" alt=""/>
-    </file>
     <file name="_dsc8435_wm-crop-u46073.jpg" crc="295864567" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
@@ -1393,9 +1268,135 @@
     <file name="_dsc8397_wm-crop-u92572.jpg" crc="3946419442" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="_dsc8435_wm274x183.jpg" crc="4084174002" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8432_wm122x183.jpg" crc="210340861" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8431_wm122x183.jpg" crc="3895358498" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8428_wm122x183.jpg" crc="3863403495" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8426_wm274x183.jpg" crc="508915313" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8422_wm274x183.jpg" crc="389535291" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8419_wm274x183.jpg" crc="383245006" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8418_wm274x183.jpg" crc="232702228" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8417_wm274x183.jpg" crc="449246081" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8415_wm274x183.jpg" crc="133131120" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8409_wm274x183.jpg" crc="296228933" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8407_wm122x183.jpg" crc="358027092" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8404_wm274x183.jpg" crc="3961566595" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8403_wm274x183.jpg" crc="4270121811" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8400_wm274x183.jpg" crc="247358280" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8397_wm274x183.jpg" crc="264329479" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8395_wm274x183.jpg" crc="272179676" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8394_wm274x183.jpg" crc="438662791" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8385_wm274x183.jpg" crc="4161418463" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8384_wm274x183.jpg" crc="441338232" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8382_wm274x183.jpg" crc="4065143296" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8381_wm274x183.jpg" crc="491816346" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8378_wm274x183.jpg" crc="3930866754" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8374_wm274x183.jpg" crc="377717605" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8373_wm274x183.jpg" crc="3952709241" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8370_wm274x183.jpg" crc="4045213780" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8367_wm122x183.jpg" crc="29123972" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8365_wm274x183.jpg" crc="3889122425" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8362_wm274x183.jpg" crc="3895383557" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8357_wm274x183.jpg" crc="273297442" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8355_wm274x183.jpg" crc="146310753" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8353_wm274x183.jpg" crc="274853087" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8354_wm274x183.jpg" crc="3805633349" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8352_wm274x183.jpg" crc="378126102" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8351_wm274x183.jpg" crc="4271629986" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8348_wm274x183.jpg" crc="3971253785" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8343_wm274x183.jpg" crc="361764618" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8342_wm273x183.jpg" crc="4190710357" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8340_wm274x183.jpg" crc="3903441914" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8339_wm274x183.jpg" crc="151500230" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8334_wm274x183.jpg" crc="3891822419" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
+    <file name="_dsc8333_wm273x183.jpg" crc="3834244958" seo="true" ref="pics">
+      <caption webpage="pics" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="147997389" seo="true" mt="1519582570777" redirect="true"/>
-  <file name="pics.html" crc="3913128332" seo="true" mt="1519582541618" redirect="true"/>
+  <file name="pics.html" crc="513455297" seo="true" mt="1519583966371" redirect="true"/>
   <file name="videos.html" crc="155670949" seo="true" mt="1519582486454" redirect="true"/>
   <file name="about.html" crc="4232617332" seo="true" mt="1519582370713" redirect="true"/>
 </manifest>
