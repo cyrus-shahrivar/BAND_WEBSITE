@@ -2,143 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.purplegravyband.com/index.html</loc>
-    <lastmod>2018-02-24</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/pglogo-half.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/pg%20disco.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/pg%20disco317x322.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/pg%20disco212x215.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/footer500x209.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.purplegravyband.com/pics.html</loc>
+    <lastmod>2018-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/pglogo-half.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo641x652.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_guitar.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo528x536.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1740.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1769.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1798.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1805.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1863.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo432x439.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys300x950.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_guitar307x949.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo444x452.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys234x741.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_guitar239x737.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo385x392.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys195x618.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_guitar199x614.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1965.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1967.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1971.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1973.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo356x362.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys169x535.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_guitar171x528.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg-disco-logo157x160.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_keys165x524.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_guitar177x546.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm.jpg</image:loc>
@@ -147,1867 +135,166 @@
       <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u4607.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u5154.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u5310.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u5466.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u5622.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u5778.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u5934.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u5024.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u5180.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u5336.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u5492.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u5648.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u5804.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u5960.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u5050.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u5206.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u5362.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u5518.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u5674.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u5830.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u5986.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u5076.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u32712.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u5232.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u33794.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u5388.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u34394.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u5544.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u34994.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u5700.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u35594.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u5856.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u36194.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u6012.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u33269.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u5102.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u33869.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u5258.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u34469.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u5414.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u35069.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u5570.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u35669.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u5726.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u36269.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u5882.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u33344.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u6038.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u33944.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u5128.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u34544.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u5284.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u35144.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u5440.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u35744.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u5596.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u33419.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u5752.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u34019.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u5908.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u34619.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u6064.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u35219.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u35819.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u33494.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u34094.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u34694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u35294.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u35894.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u33569.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u34169.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u34769.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u35369.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u35969.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u33644.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u34244.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u34844.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u35444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u36044.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u33719.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u34319.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u34919.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u35519.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u36119.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u327122.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u337942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u343942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u349942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u355942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u361942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u332692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u338692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u344692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u350692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u356692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u362692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u333442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u339442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u345442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u351442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u357442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u334192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u340192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u346192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u352192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u358192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u334942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u340942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u346942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u352942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u358942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u335692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u341692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u347692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u353692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u359692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u336442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u342442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u348442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u354442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u360442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u337192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u343192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u349192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u355192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u361192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm226x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm226x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm226x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm226x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm226x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm450x301.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u327123.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u337943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u343943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u349943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u355943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u361943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u332693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u338693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u344693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u350693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u356693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u362693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u333443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u339443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u345443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u351443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u357443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u334193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u340193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u346193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u352193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u358193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u334943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u340943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u346943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u352943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u358943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u335693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u341693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u347693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u353693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u359693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u336443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u342443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u348443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u354443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u360443.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u337193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u343193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u349193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u355193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u361193.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm175x263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm176x263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm176x263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm176x263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm176x263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm350x234.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u327124.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u337944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u343944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u349944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u355944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u361944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u332694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u338694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u344694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u350694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u356694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u362694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u333444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u339444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u345444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u351444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u357444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u334194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u340194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u346194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u352194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u358194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u334944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u340944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u346944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u352944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u358944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u335694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u341694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u347694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u353694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u359694.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u336444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u342444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u348444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u354444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u360444.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u337194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u343194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u349194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u355194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u361194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm146x219.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm146x219.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm146x219.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm146x219.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm146x219.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm291x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u327125.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u337945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u343945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u349945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u355945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u361945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u332695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u338695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u344695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u350695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u356695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u362695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u333445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u339445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u345445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u351445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u357445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u334195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u340195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u346195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u352195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u358195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u334945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u340945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u346945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u352945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u358945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u335695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u341695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u347695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u353695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u359695.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u336445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u342445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u348445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u354445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u360445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u337195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u343195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u349195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u355195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u361195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm126x188.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm126x188.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm126x188.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm126x188.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm126x188.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm250x167.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u327126.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u337946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u343946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u349946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u355946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u361946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u332696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u338696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u344696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u350696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u356696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u362696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u333446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u339446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u345446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u351446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u357446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u334196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u340196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u346196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u352196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u358196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u334946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u340946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u346946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u352946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u358946.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u335696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u341696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u347696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u353696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u359696.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u336446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u342446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u348446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u354446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u360446.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u337196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u343196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u349196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u355196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u361196.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm81x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm81x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm81x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm81x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm81x120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm160x107.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u327127.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u337947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u343947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u349947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u355947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u361947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u332697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u338697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u344697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u350697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u356697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u362697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u333447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u339447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u345447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u351447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u357447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u334197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u340197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u346197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u352197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u358197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u334947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u340947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u346947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u352947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u358947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u335697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u341697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u347697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u353697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u359697.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u336447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u342447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u348447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u354447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u360447.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u337197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u343197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u349197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u355197.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u361197.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.purplegravyband.com/shows.html</loc>
-    <lastmod>2018-02-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u2316.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23163.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23164.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23165.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo211x209.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1740.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1769.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1798.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1805.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1863.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1965.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1967.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1971.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1973.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo381x377.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo245x243.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo252x249.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo249x246.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u23166.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo190x189.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.purplegravyband.com/media.html</loc>
-    <lastmod>2018-02-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1740.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1769.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1798.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1805.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1863.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1965.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1967.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1971.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1973.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo231x228.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo149x147.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo127x125.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo114x113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo163x162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo175x173.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://www.purplegravyband.com/gallery.html</loc>
-    <lastmod>2018-02-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo298x295.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u30389.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u30604.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u30816.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u31028.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u31240.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u31452.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u30445.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u30657.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u30869.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u31081.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u31293.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u30498.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u30710.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u30922.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u31134.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u31346.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u30551.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u30763.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u30975.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u31187.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u31399.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_band3.jpg</image:loc>
@@ -2040,6 +327,9 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend_markd.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2061,892 +351,1018 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u30052.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u29787.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u29999.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u29840.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u29893.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u30105.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u29731.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u29946.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u30076.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u6306.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u30129.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u6682.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u303892.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u6812.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u306042.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u6942.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u308162.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u7072.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u310282.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u7280.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u312402.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u6578.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u314522.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u6708.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u304452.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u6838.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u306572.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u6968.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u308692.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u7176.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u310812.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u7306.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u312932.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u6604.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u304982.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u6734.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u307102.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u6864.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u309222.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u6994.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u311342.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u7202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u313462.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u7332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u305512.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u6630.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u307632.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u6760.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u309752.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u6890.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u311872.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u7020.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u313992.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u7228.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300522.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u7358.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u297872.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u6656.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298402.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u6786.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u298932.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u6916.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301052.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u7046.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297312.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u7254.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299462.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300762.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm188x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301292.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm188x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u303893.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm188x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u306043.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u308163.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u310283.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u312403.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u314523.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u304453.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u306573.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u308693.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm188x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u310813.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u312933.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u304983.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u307103.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u309223.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u311343.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u313463.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u305513.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u307633.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u309753.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u311873.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u313993.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300763.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301293.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300523.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm188x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u297873.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298403.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u298933.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301053.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297313.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299463.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u303894.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u305514.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u307104.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u308694.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u310284.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u311874.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u313464.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u304454.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u306044.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm422x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u307634.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u46072.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u309224.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u51542.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u310814.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u53102.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u312404.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u54662.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u313994.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u56222.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u304984.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u57782.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u306574.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u59342.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u308164.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u50242.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u309754.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u51802.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u311344.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u53362.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u312934.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u54922.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u314524.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u56482.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300764.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u58042.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301294.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u59602.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300524.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u50502.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u297874.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u52062.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298404.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u53622.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u298934.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u55182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301054.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u56742.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297314.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u58302.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299464.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u59862.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u303895.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u50762.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u305515.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u52322.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u307105.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u53882.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u308695.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u55442.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u310285.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u57002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u311875.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u58562.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u313465.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u60122.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u304455.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u51022.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u306045.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u52582.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u307635.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u54142.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u309225.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u55702.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u310815.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u57262.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u312405.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u58822.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u313995.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u60382.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u304985.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u51282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u306575.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u52842.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u308165.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u54402.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u309755.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u55962.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u311345.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u57522.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u312935.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u59082.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u314525.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u60642.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300765.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar296x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301295.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1234x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u300525.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band4372x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u297875.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band3345x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298405.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band2253x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u298935.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band1310x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u301055.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band266x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297315.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299465.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3375x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1740.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1769.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1798.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1805.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1863.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1965.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1967.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys307x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1318x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1971.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums361x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1973.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug285x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo514x509.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band1231x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u29864.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band277x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u29758.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u29811.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar211x282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u29917.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u63062.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u29970.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u66822.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo383x380.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u68122.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1518x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u69422.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4817x619.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u70722.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2559x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u72802.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1685x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u65782.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u67082.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u68382.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u69682.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u71762.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u73062.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u66042.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3817x613.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u67342.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u68642.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u69942.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u72022.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u73322.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u66302.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u67602.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png467x622.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u68902.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u299992.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u70202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298642.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u72282.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297582.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u73582.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u298112.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u66562.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u299172.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u67862.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299702.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u69162.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1402x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u70462.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4635x481.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u72542.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3593x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2434x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm126x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1532x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm126x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band456x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm126x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3635x476.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm126x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png363x484.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298643.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297583.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u298113.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u299173.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299703.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u299993.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo236x233.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar403x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1319x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm126x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4413x313.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3413x337.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2344x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1413x376.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band362x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3413x310.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm281x188.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8435_wm-crop-u46073.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8419_wm-crop-u51543.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8404_wm-crop-u53103.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png288x383.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8385_wm-crop-u54663.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298644.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8373_wm-crop-u56223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297584.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8355_wm-crop-u57783.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u298114.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8343_wm-crop-u59343.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u299174.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8432_wm-crop-u50243.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299704.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8418_wm-crop-u51803.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u30023.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8403_wm-crop-u53363.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u299994.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8384_wm-crop-u54923.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo151x150.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8370_wm-crop-u56483.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar258x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8353_wm-crop-u58043.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1204x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8342_wm-crop-u59603.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band4265x200.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8431_wm-crop-u50503.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band3265x216.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8417_wm-crop-u52063.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band2221x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8400_wm-crop-u53623.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band1265x241.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8382_wm-crop-u55183.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_band232x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8367_wm-crop-u56743.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8354_wm-crop-u58303.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8340_wm-crop-u59863.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm-crop-u50763.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8415_wm-crop-u52323.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u53883.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8381_wm-crop-u55443.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3265x199.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8365_wm-crop-u57003.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_markd184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8352_wm-crop-u58563.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8339_wm-crop-u60123.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8426_wm-crop-u51023.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8409_wm-crop-u52583.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8395_wm-crop-u54143.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8378_wm-crop-u55703.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png184x246.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8362_wm-crop-u57263.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u298645.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8351_wm-crop-u58823.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u297585.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8334_wm-crop-u60383.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u298115.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8422_wm-crop-u51283.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u299175.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm-crop-u52843.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u299705.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8394_wm-crop-u54403.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u300232.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8374_wm-crop-u55963.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u299995.jpg</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8357_wm-crop-u57523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8348_wm-crop-u59083.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8333_wm-crop-u60643.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar198x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1156x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band4248x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band3230x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band2169x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band1207x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band177x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3250x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys205x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1212x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums241x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug190x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band1154x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band185x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar141x188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamguitar-crop-u63063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band1-crop-u66823.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys6-crop-u68123.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys2-crop-u69423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience1png-crop-u70723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band1-crop-u72803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd1-crop-u65783.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band-crop-u67083.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_audience-crop-u68383.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys1-crop-u69683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamkeys-crop-u71763.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_band-crop-u73063.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band4-crop-u66043.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamstarfingers-crop-u67343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys5-crop-u68643.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys-crop-u69943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar1-crop-u72023.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar2-crop-u73323.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band3-crop-u66303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_equipment-crop-u67603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys3-crop-u68903.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamg-crop-u70203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_markdrums-crop-u72283.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_sattamguitar-crop-u73583.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_band2-crop-u66563.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattamkeys7-crop-u67863.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_markd-crop-u69163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend_sattam-crop-u70463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/alphabet_bandhug-crop-u72543.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.purplegravyband.com/videos.html</loc>
+    <lastmod>2018-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/pglogo-half.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/about.html</loc>
-    <lastmod>2018-02-09</lastmod>
+    <lastmod>2018-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u15340.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/pglogo-half.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153402.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153403.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153404.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153405.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm641x428.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/facebook.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm231x345.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/instagram.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm222x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop-crop-u94.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u9257.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm174x260.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8407_wm168x251.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_backdrop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1740.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1769.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1798.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1805.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1863.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/home-crop-u1965.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/shows-crop-u1967.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/media-crop-u1969.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/gallery-crop-u1971.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/about-crop-u1973.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo449x445.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo289x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo227x224.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo164x162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo141x139.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo92x91.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153406.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_pglogo90x89.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/p_textbox-crop-u153407.png</image:loc>
+      <image:loc>http://www.purplegravyband.com/images/_dsc8397_wm-crop-u92572.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
