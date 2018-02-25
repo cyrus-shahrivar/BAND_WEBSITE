@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519590896893">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1519594761387">
   <folder name="css">
     <file name="site_global.css" crc="3949668379"/>
     <file name="master_purplegravy.css" crc="133144990" ref="index:videos:about:pics"/>
@@ -700,7 +700,7 @@
     <file name="bitterend-70-crop-u17426.jpg" crc="4087114445" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="bitterend-5-crop-u15956.jpg" crc="377760053" seo="true" ref="pics">
+    <file name="bitterend-5-crop-u15956.jpg" crc="299835171" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="bitterend-17-crop-u16208.jpg" crc="3859275707" seo="true" ref="pics">
@@ -870,7 +870,7 @@
     <file name="bitterend-72.jpg" crc="4164866178" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="bitterend-1-crop-u46072.jpg" crc="112657037" seo="true" ref="pics">
+    <file name="bitterend-1-crop-u46072.jpg" crc="3858121762" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="bitterend-8-crop-u159982.jpg" crc="3956062667" seo="true" ref="pics">
@@ -951,7 +951,7 @@
     <file name="bitterend-4-crop-u159142.jpg" crc="4166837125" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="bitterend-13-crop-u161242.jpg" crc="3990083783" seo="true" ref="pics">
+    <file name="bitterend-13-crop-u161242.jpg" crc="3848831437" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="bitterend-20-crop-u163342.jpg" crc="4229859744" seo="true" ref="pics">
@@ -972,7 +972,7 @@
     <file name="bitterend-69-crop-u173842.jpg" crc="3978961175" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
-    <file name="bitterend-5-crop-u159562.jpg" crc="4060925558" seo="true" ref="pics">
+    <file name="bitterend-5-crop-u159562.jpg" crc="4117097623" seo="true" ref="pics">
       <caption webpage="pics" alt=""/>
     </file>
     <file name="bitterend-14-crop-u161662.jpg" crc="4137859842" seo="true" ref="pics">
@@ -1383,7 +1383,7 @@
     <file name="bitterend-13222x333.jpg" crc="419997474" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="bitterend-5-crop-u9257.jpg" crc="3782305996" seo="true" ref="about">
+    <file name="bitterend-5-crop-u9257.jpg" crc="426331490" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="bitterend-1174x260.jpg" crc="3920082708" seo="true" ref="about">
@@ -1392,12 +1392,12 @@
     <file name="bitterend-13168x251.jpg" crc="502707848" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="bitterend-5-crop-u92572.jpg" crc="117466797" seo="true" ref="about">
+    <file name="bitterend-5-crop-u92572.jpg" crc="343758097" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="231658940" seo="true" mt="1519589096526" redirect="true"/>
-  <file name="pics.html" crc="528958866" seo="true" mt="1519590760134" redirect="true"/>
-  <file name="videos.html" crc="155670949" seo="true" mt="1519582486454" redirect="true"/>
-  <file name="about.html" crc="3961029251" seo="true" mt="1519590828660" redirect="true"/>
+  <file name="index.html" crc="3865217880" seo="true" mt="1519594671292" redirect="true"/>
+  <file name="pics.html" crc="4006745101" seo="true" mt="1519594642082" redirect="true"/>
+  <file name="videos.html" crc="4015029267" seo="true" mt="1519594676560" redirect="true"/>
+  <file name="about.html" crc="395799522" seo="true" mt="1519594694359" redirect="true"/>
 </manifest>
