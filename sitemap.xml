@@ -15,13 +15,13 @@
       <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg%20disco317x322.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/pg%20disco212x215.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/footer500x209.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/pg%20disco409x415.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/pg%20disco324x330.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1339,6 +1339,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/footer500x209.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/_dsc8428_wm.jpg</image:loc>
