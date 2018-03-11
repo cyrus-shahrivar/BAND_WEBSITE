@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.purplegravyband.com/index.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/pics.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -696,9 +696,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend-5.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-8.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1313,10 +1310,13 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-72281x188.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend-5926x619.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/videos.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1328,7 +1328,7 @@
   </url>
   <url>
     <loc>http://www.purplegravyband.com/about.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1338,16 +1338,10 @@
       <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/footer500x209.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend-5640x428.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-1231x345.jpg</image:loc>
@@ -1366,6 +1360,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-5-crop-u92572.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bassplayerv3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend-5662x442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bassplayerv32.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bassplayerv3232x232.png</image:loc>
     </image:image>
   </url>
 </urlset>
