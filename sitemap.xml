@@ -684,9 +684,6 @@
       <image:loc>http://www.purplegravyband.com/images/bitterend-72-crop-u17510.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend-1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1313,6 +1310,9 @@
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-5926x619.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend-1413x618.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.purplegravyband.com/videos.html</loc>
@@ -1338,9 +1338,6 @@
       <image:loc>http://www.purplegravyband.com/images/footer.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend-1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-13.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1351,9 +1348,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-5-crop-u9257.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.purplegravyband.com/images/bitterend-1174x260.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bitterend-13168x251.jpg</image:loc>
@@ -1372,6 +1366,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.purplegravyband.com/images/bassplayerv3232x232.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend-1341x511.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.purplegravyband.com/images/bitterend-1201x301.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
