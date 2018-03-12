@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1520825954963">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.purplegravyband.com" resolutions="1x" timestamp="1520874308015">
   <folder name="css">
-    <file name="site_global.css" crc="3949668379"/>
+    <file name="site_global.css" crc="43272234"/>
     <file name="master_purplegravy.css" crc="133144990" ref="index:videos:about:pics"/>
     <file name="nomq_preview_master_purplegravy.css" crc="3824530138" ref="index:videos:about:pics"/>
-    <file name="index.css" crc="325666819" ref="index"/>
-    <file name="nomq_index.css" crc="3937144219" ref="index"/>
+    <file name="index.css" crc="4121007187" ref="index"/>
+    <file name="nomq_index.css" crc="3985421606" ref="index"/>
     <file name="videos.css" crc="3763832584" ref="videos"/>
     <file name="nomq_videos.css" crc="402387582" ref="videos"/>
     <file name="about.css" crc="3991933936" ref="about"/>
@@ -35,15 +35,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="videos" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
     </file>
     <file name="pg disco.png" crc="103841776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -51,37 +51,37 @@
     <file name="footer.png" crc="4147312291" seo="true" ref="index:pics:videos:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="videos" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
     </file>
     <file name="burger white.png" crc="494788321" ref="index:pics:videos:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="videos" alt=""/>
       <caption webpage="videos" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
+      <caption webpage="pics" alt=""/>
     </file>
     <file name="x-mark-elections white.png" crc="247377950" ref="index:pics:videos:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="pics" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="videos" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pics" alt=""/>
     </file>
     <file name="footer500x209.png" crc="346203364" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="pics" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="pics" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:pics:videos:about"/>
     <file name="pics-favicon.ico" crc="4149986414" ref="pics"/>
@@ -1406,8 +1406,17 @@
     <file name="bitterend-1201x301.jpg" crc="53341247" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="echosoflove.jpg" crc="4259088914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="echosoflove607x785.jpg" crc="4037886224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="echosoflove405x524.jpg" crc="4134339989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="373390971" seo="true" mt="1520825922960" redirect="true"/>
+  <file name="index.html" crc="3779326199" seo="true" mt="1520874288565" redirect="true"/>
   <file name="pics.html" crc="3957979520" seo="true" mt="1520825869443" redirect="true"/>
   <file name="videos.html" crc="4110622326" seo="true" mt="1520825908945" redirect="true"/>
   <file name="about.html" crc="3769922242" seo="true" mt="1520825738298" redirect="true"/>
