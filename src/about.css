@@ -1,0 +1,38 @@
+.about {
+    color: white;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.about__member {
+    background: linear-gradient(to bottom,#47015B ,#000000 44%);
+    padding: 10px;
+}
+
+.about__title {
+    font-family: "changeling-neo-inline";
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.about__real-name {
+    margin-bottom: 10px;
+}
+
+.about__role {
+    margin-bottom: 20px;
+}
+
+.about__description {
+    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    font-size: 14px;
+}
+
+.about__description p {
+    margin-bottom: 8px;
+}
+
+.about__image {
+    height: 200px;
+}

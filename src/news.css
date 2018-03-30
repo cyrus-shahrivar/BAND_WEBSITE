@@ -1,0 +1,15 @@
+.news {
+    background: black;
+}
+
+.news__item, .news__item a {
+    color: #A03DFF;
+}
+
+.news__item {
+    font-family: "changeling-neo-inline";
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    text-align: center;
+}
