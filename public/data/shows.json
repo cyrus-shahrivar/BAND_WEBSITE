@@ -1,0 +1,30 @@
+{
+    "shows": [
+        {
+            "showTimeAndLocation": "Tuesday April 3rd @ The Bitter End",
+            "event": "5th Annual Echoes of Love",
+            "eventWebsite": "https://www.eventbrite.com/e/echoes-of-love-raising-funds-for-suicide-prevention-with-music-tickets-43785973024",
+            "date": "Tuesday, April 3",
+            "venue": {
+                "name": "The Bitter End",
+                "address": "",
+                "phone": "",
+                "website": ""
+            },
+            "details": "<p>Raising funds for suicide prevention with music<\/p><p>Multiple guest appearances including Purple Gravy<\/p><a href=\"https:\/\/www.eventbrite.com\/e\/echoes-of-love-raising-funds-for-suicide-prevention-with-music-tickets-43785973024\">Tickets<\/a>"
+        },
+        {
+            "showTimeAndLocation": "Friday April 27th @ West End Lounge",
+            "event": "",
+            "eventWebsite": "",
+            "date": "Friday, April 27",
+            "venue": {
+                "name": "West End Lounge",
+                "address": "955 West End Ave, NY (106-107 Sts.)",
+                "phone": "(212) 531-4759",
+                "website": "http://thewestendlounge.com"
+            },
+            "details": "<p>$10 admission - 21+ w/ID,<\/p><p>9pm show<\/p>"
+        }
+    ]
+}
