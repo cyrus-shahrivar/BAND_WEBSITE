@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #262626;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+}
+
+/* FOOTER */
+.site-footer {
+    color: #727272;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.social-media {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-bottom: 20px;
+}
+
+.social-media a {
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.social-media a:last-child {
+    margin-right: 0;
+}
+
+.social-media__untappd,
+.social-media__facebook,
+.social-media__twitter,
+.social-media__instagram {
+    height: 24px;
+    width: 24px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    top: 4px;
+}

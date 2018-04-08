@@ -1,30 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Purple Gravy</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Purple Gravy</title>
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css?family=Niconne" rel="stylesheet">
+    <link rel="stylesheet" href="styles/common.css">
+    <link rel="stylesheet" href="styles/home.css">
 </head>
+
 <body>
-  <header class="header">
-    <nav>
-      <ul>
-        <li>HOME</li>
-        <li>PICS</li>
-        <li>VIDEOS</li>
-        <li>ABOUT</li>
-      </ul>
-    </nav>
-  </header>
-  <section class="hero">Purple Gravy</section>
-  <section class="content">
-    <section class="news">News</section>
-    <section class="shows">Shows</section>
-  </section>
-  <footer>
-    <section class="copyright">&copy; 2018 PurpleGravyBand.com</section>
-    <section class="social-media-icons"></section>
-  </footer>
+    <!-- HERO -->
+    <section class="hero">
+        <section class="logo">
+            <div>
+                <span>P</span>
+                <span>u</span>
+                <span>r</span>
+                <span>p</span>
+                <span>l</span>
+                <span>e</span>
+            </div>
+            <div>
+                <span>G</span>
+                <span>r</span>
+                <span>a</span>
+                <span>v</span>
+                <span>y</span>
+            </div>
+        </section>
+    </section>
+    <!-- TODO: figure out nav -->
+    <!-- <nav>
+    <ul>
+      <li>SHOWS</li>
+      <li>NEWS</li>
+      <li>PICS</li>
+      <li>VIDEOS</li>
+      <li>ABOUT</li>
+    </ul>
+  </nav> -->
+    <section class="content"></section>
+    <footer class="site-footer">
+        <section class="social-media">
+            <a href="https://www.facebook.com/thepurplegravy" target="_blank"><i class="social-media__facebook" style="background-image: url('images/social/facebook.png');" data-rjs="2"></i></a>
+            <a href="https://twitter.com/PurpleGravyBand" target="_blank"><i class="social-media__twitter" style="background-image: url('images/social/twitter-twitter.png');" data-rjs="2"></i></a>
+            <a href="https://www.instagram.com/purplegravyband/" target="_blank"><i class="social-media__instagram" style="background-image: url('images/social/instagram.png');" data-rjs="2"></i></a>
+        </section>
+        <section class="copyright">&copy; 2018 PurpleGravyBand.com</section>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
+    <!-- TEMPLATES -->
+    <script id="shows-template" type="text/x-handlebars-template">
+        <section class="shows">
+            <header class="shows__header">Shows</header>
+            {{#if shows.length}}
+                {{#each shows}}
+                    <div>
+                        <header class="show__header">{{{showName}}}</header>
+                        {{#each showDetails}}
+                            <p class="show__detail">{{{this}}}</p>
+                        {{/each}}
+                    </div>
+                {{/each}}
+            {{else}}
+                <div>No shows at this time. Check back later.</div>
+            {{/if}}
+        </section>
+    </script>
+    <script id="news-template" type="text/x-handlebars-template">
+        <section class="news">
+            <header class="news__header">News</header>
+            {{#if news.length}}
+                {{#each news}}
+                    <div>
+                        <header class="news-piece__header">{{{newsPieceHeader}}}</header>
+                        {{#each newsPieceDetails}}
+                            <p class="news-piece__detail">{{{this}}}</p>
+                        {{/each}}
+                    </div>
+                {{/each}}
+            {{else}}
+                <div>No shows at this time. Check back later.</div>
+            {{/if}}
+        </section>
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/2.1.3/retina.min.js"></script>
+    <script src="scripts/main.js"></script>
 </body>
+
 </html>
