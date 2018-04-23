@@ -1,5 +1,10 @@
 $(document).ready(function () {
-    var $contentContainer = $('.content');
+    var $showsSection = $('#shows-section');
+    var $videosSection = $('#videos-section');
+    var $picsSection = $('#pics-section');
+    var $aboutSection = $('#about-section');
+    var $contactSection = $('#contact-section');
+
     var showsTemplate = $('#shows-template').html();
     var videosTemplate = $('#videos-template').html();
     var picsTemplate = $('#pics-template').html();
@@ -23,7 +28,7 @@ $(document).ready(function () {
         url: './data/shows.json'
       }).done(function(data) {
         var compiledHtml = showsCompiledTemplate(data);
-        $contentContainer.append(compiledHtml);
+        $showsSection.append(compiledHtml);
     });
 
     $.ajax({
@@ -31,7 +36,7 @@ $(document).ready(function () {
         url: './data/videos.json'
       }).done(function(data) {
         var compiledHtml = videosCompiledTemplate(data);
-        $contentContainer.append(compiledHtml);
+        $videosSection.append(compiledHtml);
     });
 
     $.ajax({
@@ -39,7 +44,7 @@ $(document).ready(function () {
         url: './data/pics.json'
       }).done(function(data) {
         var compiledHtml = picsCompiledTemplate(data);
-        $contentContainer.append(compiledHtml);
+        $picsSection.append(compiledHtml);
     });
 
     $.ajax({
@@ -47,7 +52,7 @@ $(document).ready(function () {
         url: './data/about.json'
       }).done(function(data) {
         var compiledHtml = aboutCompiledTemplate(data);
-        $contentContainer.append(compiledHtml);
+        $aboutSection.append(compiledHtml);
     });
 
     $.ajax({
@@ -55,6 +60,6 @@ $(document).ready(function () {
         url: '/data/contact.json'
       }).done(function(data) {
         var compiledHtml = contactCompiledTemplate(data);
-        $contentContainer.append(compiledHtml);
+        $contactSection.append(compiledHtml);
     });
 })
