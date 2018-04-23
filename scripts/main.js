@@ -1,9 +1,9 @@
 $(document).ready(function () {
-    var $showsSection = $('#shows-section');
-    var $videosSection = $('#videos-section');
-    var $picsSection = $('#pics-section');
-    var $aboutSection = $('#about-section');
-    var $contactSection = $('#contact-section');
+    var $showsSection = $('.shows-section');
+    var $videosSection = $('.videos-section');
+    var $picsSection = $('.pics-section');
+    var $aboutSection = $('.about-section');
+    var $contactSection = $('.contact-section');
 
     var showsTemplate = $('#shows-template').html();
     var videosTemplate = $('#videos-template').html();
