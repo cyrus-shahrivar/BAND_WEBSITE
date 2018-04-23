@@ -20,7 +20,7 @@ $(document).ready(function () {
 
     $.ajax({
         dataType: 'json',
-        url: '/data/shows.json'
+        url: './data/shows.json'
       }).done(function(data) {
         var compiledHtml = showsCompiledTemplate(data);
         $contentContainer.append(compiledHtml);
@@ -28,7 +28,7 @@ $(document).ready(function () {
 
     $.ajax({
         dataType: 'json',
-        url: '/data/videos.json'
+        url: './data/videos.json'
       }).done(function(data) {
         var compiledHtml = videosCompiledTemplate(data);
         $contentContainer.append(compiledHtml);
@@ -36,7 +36,7 @@ $(document).ready(function () {
 
     $.ajax({
         dataType: 'json',
-        url: '/data/pics.json'
+        url: './data/pics.json'
       }).done(function(data) {
         var compiledHtml = picsCompiledTemplate(data);
         $contentContainer.append(compiledHtml);
@@ -44,7 +44,7 @@ $(document).ready(function () {
 
     $.ajax({
         dataType: 'json',
-        url: '/data/about.json'
+        url: './data/about.json'
       }).done(function(data) {
         var compiledHtml = aboutCompiledTemplate(data);
         $contentContainer.append(compiledHtml);
