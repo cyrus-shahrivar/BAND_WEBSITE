@@ -1,0 +1,60 @@
+/* HERO */
+.hero {
+    text-align: center;
+    height: 100vh;
+    position: relative;
+    background: url("/images/logo/PG-disco-logo.png") center/contain no-repeat;
+}
+
+/* CONTENT */
+.content {
+    color: white;
+    text-align: center;
+}
+
+/* PICS */
+.pics__pic {
+    max-height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* ABOUT */
+.about__band-member {
+    clear: both;
+    overflow: auto;
+    /* THIS MIGHT BE TOO MUCH STYLING */
+    /* background: linear-gradient(to bottom,#47015B ,#000000 60%); */
+}
+
+.about__image {
+    max-height: 400px;
+    float: right;
+}
+
+/* MULTIPLE */
+.shows,
+.videos,
+.pics,
+.news,
+.about,
+.contact {
+    margin-bottom: 50px;
+}
+
+.shows__header,
+.videos__header,
+.pics__header,
+.news__header,
+.about__header,
+.contact__header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.show__header,
+.news-piece__header {
+    font-size: 20px;
+}
