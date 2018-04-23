@@ -1,0 +1,14 @@
+{
+    "contentName": "Videos",
+    "featuredVideos": [
+        {
+            "videoSrc": "src"
+        },
+        {
+            "videoSrc": "src"
+        },
+        {
+            "videoSrc": "src"
+        }
+    ]
+}

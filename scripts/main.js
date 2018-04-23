@@ -1,13 +1,22 @@
 $(document).ready(function () {
     var $contentContainer = $('.content');
     var showsTemplate = $('#shows-template').html();
-    var newsTemplate = $('#news-template').html();
+    var videosTemplate = $('#videos-template').html();
+    var picsTemplate = $('#pics-template').html();
+    var aboutTemplate = $('#about-template').html();
+    var contactTemplate = $('#contact-template').html();
 
     Handlebars.registerPartial('shows-template', showsTemplate);
-    Handlebars.registerPartial('news-template', newsTemplate);
+    Handlebars.registerPartial('videos-template', videosTemplate);
+    Handlebars.registerPartial('pics-template', picsTemplate);
+    Handlebars.registerPartial('about-template', aboutTemplate);
+    Handlebars.registerPartial('contact-template', contactTemplate);
 
     var showsCompiledTemplate = Handlebars.compile(showsTemplate);
-    var newsCompiledTemplate = Handlebars.compile(newsTemplate);
+    var videosCompiledTemplate = Handlebars.compile(videosTemplate);
+    var picsCompiledTemplate = Handlebars.compile(picsTemplate);
+    var aboutCompiledTemplate = Handlebars.compile(aboutTemplate);
+    var contactCompiledTemplate = Handlebars.compile(contactTemplate);
 
     $.ajax({
         dataType: 'json',
@@ -19,13 +28,33 @@ $(document).ready(function () {
 
     $.ajax({
         dataType: 'json',
-        url: '/data/news.json'
+        url: '/data/videos.json'
       }).done(function(data) {
-        var isNewsAvailable = data.news.length;
+        var compiledHtml = videosCompiledTemplate(data);
+        $contentContainer.append(compiledHtml);
+    });
 
-        if (isNewsAvailable) {
-            var compiledHtml = newsCompiledTemplate(data);
-            $contentContainer.prepend(compiledHtml);
-        }
+    $.ajax({
+        dataType: 'json',
+        url: '/data/pics.json'
+      }).done(function(data) {
+        var compiledHtml = picsCompiledTemplate(data);
+        $contentContainer.append(compiledHtml);
+    });
+
+    $.ajax({
+        dataType: 'json',
+        url: '/data/about.json'
+      }).done(function(data) {
+        var compiledHtml = aboutCompiledTemplate(data);
+        $contentContainer.append(compiledHtml);
+    });
+
+    $.ajax({
+        dataType: 'json',
+        url: '/data/contact.json'
+      }).done(function(data) {
+        var compiledHtml = contactCompiledTemplate(data);
+        $contentContainer.append(compiledHtml);
     });
 })
