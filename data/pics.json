@@ -2,17 +2,17 @@
     "contentName": "Pics",
     "featuredPics": [
         {
-            "imageSrc": "/images/photos/Bitter-End-2017/BitterEnd_Audience1.png.jpeg",
+            "imageSrc": "./images/photos/Bitter-End-2017/BitterEnd_Audience1.png.jpeg",
             "caption": "The Bitter End 2017 - Audience",
             "credit": ""
         },
         {
-            "imageSrc": "/images/photos/Bitter-End-2017/BitterEnd_Audience1.png.jpeg",
+            "imageSrc": "./images/photos/Bitter-End-2017/BitterEnd_Audience1.png.jpeg",
             "caption": "The Bitter End 2017 - Audience",
             "credit": ""
         },
         {
-            "imageSrc": "/images/photos/Bitter-End-2017/BitterEnd_Audience1.png.jpeg",
+            "imageSrc": "./images/photos/Bitter-End-2017/BitterEnd_Audience1.png.jpeg",
             "caption": "The Bitter End 2017 - Audience",
             "credit": ""
         }
