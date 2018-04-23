@@ -57,7 +57,7 @@ $(document).ready(function () {
 
     $.ajax({
         dataType: 'json',
-        url: '/data/contact.json'
+        url: './data/contact.json'
       }).done(function(data) {
         var compiledHtml = contactCompiledTemplate(data);
         $contactSection.append(compiledHtml);
