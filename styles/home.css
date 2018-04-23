@@ -1,139 +1,9 @@
-/* NAVIGATION */
-nav {
-    color: white;
-}
-
 /* HERO */
 .hero {
     text-align: center;
     height: 100vh;
     position: relative;
-}
-
-.logo {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%;
-}
-
-.hero span {
-    font-family: 'Niconne', cursive;
-    display: inline-block;
-    font-size: 80px;
-    letter-spacing: 15px;
-    color: #484848;
-    text-shadow: none;
-    animation: animate 1s infinite linear;
-    padding: 0;
-    margin: 0;
-}
-
-@media (max-width: 540px) {
-    .hero span {
-        font-size: 55px;
-    }
-}
-
-@media (max-width: 375px) {
-    .hero span {
-        font-size: 40px;
-    }
-}
-
-/* TUBELIGHT ANIMATION, Source: https://www.youtube.com/watch?v=0JEzysYI2xk Online Tutorials */
-@keyframes animate {
-    0% {
-        color: #484848;
-        text-shadow: none;
-    }
-
-    18% {
-        color: #484848;
-        text-shadow: none;
-    }
-
-    20% {
-        color: #e572fd;
-        text-shadow: 0 0 7px #e572fd, 0 0 20px #770090;
-    }
-
-    30% {
-        color: #484848;
-        text-shadow: none;
-    }
-
-    35% {
-        color: #e572fd;
-        text-shadow: 0 0 7px #e572fd, 0 0 20px #770090;
-    }
-
-    70% {
-        color: #484848;
-        text-shadow: none;
-    }
-
-    85% {
-        color: #e572fd;
-        text-shadow: 0 0 7px #e572fd, 0 0 20px #770090;
-    }
-
-    90% {
-        color: #484848;
-        text-shadow: none;
-    }
-
-    100% {
-        color: #484848;
-        text-shadow: none;
-    }
-}
-
-/* PURPLE ANIMATION TIMES */
-.hero div:first-child span:nth-child(n+1) {
-    animation-delay: 0.2s;
-}
-
-.hero div:first-child span:nth-child(n+2) {
-    animation-delay: 0.4s;
-}
-
-.hero div:first-child span:nth-child(3) {
-    animation-delay: 0.6s;
-}
-
-.hero div:first-child span:nth-child(4) {
-    animation-delay: 0.8s;
-}
-
-.hero div:first-child span:nth-child(5) {
-    animation-delay: 1.0s;
-}
-
-.hero div:first-child span:nth-child(6) {
-    animation-delay: 1.2s;
-}
-
-/* GRAVY ANIMATION TIMES */
-.hero div:nth-child(2) span:nth-child(n+2) {
-    animation-delay: 0.5s;
-}
-
-.hero div:nth-child(2) span:nth-child(3) {
-    animation-delay: 0.3s;
-}
-
-.hero div:nth-child(2) span:nth-child(4) {
-    animation-delay: 0.4s;
-}
-
-.hero div:nth-child(2) span:nth-child(5) {
-    animation-delay: 0.2s;
-}
-
-.hero div:nth-child(2) span:nth-child(6) {
-    animation-delay: 0.7s;
+    background: url("/images/logo/PG-disco-logo.png") center/contain no-repeat;
 }
 
 /* CONTENT */
@@ -142,14 +12,42 @@ nav {
     text-align: center;
 }
 
+/* PICS */
+.pics__pic {
+    max-height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* ABOUT */
+.about__band-member {
+    clear: both;
+    overflow: auto;
+    /* THIS MIGHT BE TOO MUCH STYLING */
+    /* background: linear-gradient(to bottom,#47015B ,#000000 60%); */
+}
+
+.about__image {
+    max-height: 400px;
+    float: right;
+}
+
 /* MULTIPLE */
 .shows,
-.news {
+.videos,
+.pics,
+.news,
+.about,
+.contact {
     margin-bottom: 50px;
 }
 
 .shows__header,
-.news__header {
+.videos__header,
+.pics__header,
+.news__header,
+.about__header,
+.contact__header {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 36px;
     text-transform: uppercase;

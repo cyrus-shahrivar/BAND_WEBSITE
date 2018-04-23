@@ -9,19 +9,62 @@ a {
     color: white;
 }
 
+/* NAVIGATION */
+nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    background-color: purple;
+    color: white;
+}
+
+nav .logo {
+    height: 300px;
+    width: 80%;
+    background: url(./../images/logo/p_PGlogo.png) center/contain no-repeat;
+    margin: 0 auto;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 24px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+main {
+    margin-left: 300px;
+    position: relative;
+}
+
 /* FOOTER */
 .site-footer {
     color: #727272;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 20px;
+    clear: both;
 }
 
 .social-media {
-    display: inline-block;
     text-align: center;
     vertical-align: top;
-    margin-bottom: 20px;
+    margin: 0 auto 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .social-media a {
