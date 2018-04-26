@@ -1,6 +1,14 @@
 $(document).ready(function () {
     var environment = window.location.pathname !== '/' ? 'beta' : 'prod';
     var environmentPathname = environment === 'beta' ? '/BAND_WEBSITE/' : '/';
+    
+    // Nav Setup
+    if (environmentPathname === 'beta') {
+        $('nav ul li a').each(function(){
+            var currentHref = $(this).attr('href');
+            $(this).attr('href', '/BAND_WEBSITE' + currentHref)
+        });
+    }
 
     // Setup Mobile Menu
     var $body = $('body');
