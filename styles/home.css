@@ -28,8 +28,22 @@
 }
 
 .about__image {
-    max-height: 400px;
+    max-height: 350px;
+    width: 50%;
     float: right;
+}
+
+.about__band-member:nth-child(odd) .about__image {
+    float: left;
+}
+
+@media (max-width: 978px) {
+    .about__image, .about__band-member:nth-child(odd) .about__image {
+        width: auto;
+        float: initial;
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 /* MULTIPLE */

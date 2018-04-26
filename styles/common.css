@@ -20,6 +20,12 @@ nav {
     color: white;
 }
 
+@media (max-width: 978px) {
+    nav {
+        left: -300px;
+    }
+}
+
 nav .logo {
     height: 300px;
     width: 80%;
@@ -47,6 +53,12 @@ nav ul li a {
 main {
     margin-left: 300px;
     position: relative;
+}
+
+@media (max-width: 978px) {
+    main {
+        margin-left: 0;
+    }
 }
 
 /* FOOTER */
