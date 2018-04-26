@@ -93,13 +93,15 @@
             <div class="about__band-members">
                 {{#each bandMembers}}
                     <div class="about__band-member">
-                        <img class="about__image" src="{{this.image}}" alt="{{this.name}} picture" style="float: {{this.imageAlignment}}">
-                        <h2 class="about__band-member-name">{{this.bandName}}</h2>
-                        <h3 class="about__band-member-real-name">{{this.name}}</h3>
-                        <h3 class="about__band-member-role">{{this.roles}}</h3>
-                        {{#each description}}
-                        <p>{{{this}}}</p>
-                        {{/each}}
+                        <img class="about__image" src="{{this.image}}" alt="{{this.name}} picture">
+                        <div class="about__band-member-details">
+                            <h2 class="about__band-member-name">{{this.bandName}}</h2>
+                            <h3 class="about__band-member-real-name">{{this.name}}</h3>
+                            <h3 class="about__band-member-role">{{this.roles}}</h3>
+                            {{#each description}}
+                            <p>{{{this}}}</p>
+                            {{/each}}
+                        </div>
                     </div>
                 {{/each}}
             </div>
