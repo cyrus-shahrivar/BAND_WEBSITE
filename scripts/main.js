@@ -1,12 +1,13 @@
 $(document).ready(function () {
     var environment = window.location.host === 'cyrus-shahrivar.github.io' ? 'beta' : 'prod';
-    var environmentPathname = environment === 'beta' ? '/BAND_WEBSITE/' : '/';
+    var isBeta = environment === 'beta';
+    var environmentPathname = isBeta ? '/BAND_WEBSITE/' : '/';
     
     // Nav Setup
-    if (environment === 'beta') {
+    if (isBeta) {
         $('nav ul li a').each(function(){
             var currentHref = $(this).attr('href');
-            $(this).attr('href', '/BAND_WEBSITE' + currentHref)
+            $(this).attr('href', '/BAND_WEBSITE' + currentHref);
         });
     }
 
