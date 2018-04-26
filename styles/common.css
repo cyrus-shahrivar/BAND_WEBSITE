@@ -50,6 +50,40 @@ nav ul li a {
     text-decoration: none;
 }
 
+.hamburger-open-button,
+.x-close-button {
+    display: none;
+}
+
+@media (max-width: 978px) {
+    nav {
+        z-index: 1;
+    }
+
+    body.mobile-menu-open nav {
+        left: 0;
+        width: 100%;
+    }
+
+    .hamburger-open-button,
+    .x-close-button {
+        cursor: pointer;
+        display: block;
+        position: absolute;
+        top: 0;
+    }
+
+    .hamburger-open-button {
+        right: -20px;
+    }
+
+    .x-close-button {
+        right: 20px;
+    }
+}
+
+/* MAIN CONTENT */
+
 main {
     margin-left: 300px;
     position: relative;
