@@ -8,6 +8,7 @@
     <title>Purple Gravy</title>
     <!-- Styles -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+    <link href="styles/lightbox.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Niconne" rel="stylesheet">
     <link rel="stylesheet" href="styles/common.css">
     <link rel="stylesheet" href="styles/home.css">
@@ -49,6 +50,7 @@
     </main>
     <!-- SCRIPTS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="scripts/lightbox.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
     <!-- TEMPLATES -->
     <script id="shows-template" type="text/x-handlebars-template">
@@ -81,10 +83,14 @@
         <section id="pics" class="pics">
             <header class="pics__header">{{contentName}}</header>
             {{#each featuredPics}}
-                <img class="pics__pic" src="{{this.imageSrc}}" alt="{{this.caption}} | {{this.credit}}">
-                <p class="pics__caption">{{this.caption}}</p>
+                <div class="pics__pic-container">
+                    <a href="{{this.imageSrc}}" data-lightbox="lightbox-set" data-title="{{this.caption}}">
+                        <img class="pics__pic" src="{{this.imageSrc}}" alt="{{this.caption}} | {{this.credit}}">
+                    </a>
+                    <p class="pics__caption">{{this.caption}}</p>
+                </div>
             {{/each}}
-            <a href="/pics.html">More Pics --></a>
+            <a class="pics__more-pics" href="/pics.html">More Pics --></a>
         </section>
     </script>
     <script id="pics-template" type="text/x-handlebars-template"></script>
