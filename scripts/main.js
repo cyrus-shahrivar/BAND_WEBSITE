@@ -2,7 +2,7 @@ $(document).ready(function () {
     var environment = window.location.host === 'cyrus-shahrivar.github.io' ? 'beta' : 'prod';
     var isBeta = environment === 'beta';
     var environmentPathname = isBeta ? '/BAND_WEBSITE/' : '/';
-    
+
     // Nav Setup
     if (isBeta) {
         $('nav ul li a').each(function(){
@@ -15,6 +15,7 @@ $(document).ready(function () {
     var $body = $('body');
     var $hamburgerOpenButton = $('.hamburger-open-button');
     var $xCloseButton = $('.x-close-button');
+    var $navLinks = $('.nav-link');
 
     $hamburgerOpenButton.click(function () {
         console.log('clicked');
@@ -25,6 +26,12 @@ $(document).ready(function () {
         console.log('clicked');
         $body.toggleClass('mobile-menu-open');
     });
+
+    $navLinks.click(function() {
+        if ($body.hasClass('mobile-menu-open')) {
+            $body.toggleClass('mobile-menu-open');
+        }
+    })
 
     // Setup Homepage Sections
     var sections = ['shows', 'videos', 'about', 'pics', 'contact'];
