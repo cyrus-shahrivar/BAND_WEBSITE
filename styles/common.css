@@ -70,7 +70,7 @@ nav ul li a {
         cursor: pointer;
         display: block;
         position: absolute;
-        top: 0;
+        top: 10px;
     }
 
     .hamburger-open-button {
