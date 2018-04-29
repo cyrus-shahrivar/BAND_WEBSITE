@@ -56,7 +56,7 @@
             <header class="shows__header">{{contentName}}</header>
             {{#if shows.length}}
                 {{#each shows}}
-                    <div>
+                    <div class="shows_show">
                         <header class="show__header">{{{showName}}}</header>
                         {{#each showDetails}}
                             <p class="show__detail">{{{this}}}</p>
@@ -72,9 +72,7 @@
         <section id="videos" class="videos">
             <header class="videos__header">{{contentName}}</header>
             {{#each featuredVideos}}
-                <!-- TODO: embeds? or mp4s? -->
-                <!-- TODO: captions/headers? -->
-                <p>INSERT VIDEO HERE</p>
+                <div class="videos__video">{{{embedCode}}}</div>
             {{/each}}
             <a href="/videos.html">More Videos --></a>
         </section>
