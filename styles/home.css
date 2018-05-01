@@ -83,7 +83,8 @@
 .pics,
 .news,
 .about,
-.contact {
+.contact,
+.subscribe {
     margin-bottom: 50px;
 }
 
@@ -92,7 +93,8 @@
 .pics__header,
 .news__header,
 .about__header,
-.contact__header {
+.contact__header,
+.subscribe__header {
     font-family: 'Audiowide', cursive;
     font-size: 36px;
     text-transform: uppercase;

@@ -24,6 +24,7 @@
             <li><a class="nav-link" href="/#videos">Videos</a></li>
             <li><a class="nav-link" href="/#pics">Pics</a></li>
             <li><a class="nav-link" href="/#about">About Us</a></li>
+            <li><a href="/#subscribe">Subscribe</a></li>
             <li><a class="nav-link" href="/#contact">Contact</a></li>
         </ul>
         <section class="social-media">
@@ -42,6 +43,7 @@
             <section class="videos-section"></section>
             <section class="pics-section"></section>
             <section class="about-section"></section>
+            <section class="subscribe-section"></section>
             <section class="contact-section"></section>
         </section>
         <footer class="site-footer">
@@ -112,6 +114,14 @@
                     </div>
                 {{/each}}
             </div>
+        </section>
+    </script>
+    <script id="subscribe-template" type="text/x-handlebars-template">
+        <section id="subscribe" class="subscribe">
+            <header class="subscribe__header">{{contentName}}</header>
+            {{#each details}}
+                <p>{{{this}}}</p>
+            {{/each}}
         </section>
     </script>
     <script id="contact-template" type="text/x-handlebars-template">
