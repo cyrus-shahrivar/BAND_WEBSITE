@@ -34,7 +34,7 @@ $(document).ready(function () {
     })
 
     // Setup Homepage Sections
-    var sections = ['shows', 'videos', 'about', 'pics', 'contact'];
+    var sections = ['shows', 'videos', 'about', 'pics', 'contact', 'subscribe'];
     var sectionObjects = sections.map(function (section) {
         return {
             sectionName: section,
