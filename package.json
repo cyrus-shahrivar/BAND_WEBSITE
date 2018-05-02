@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cyrus-shahrivar/BAND_WEBSITE#readme",
   "dependencies": {
-    "lightbox2": "^2.10.0"
+    "lightbox2": "^2.10.0",
+    "scrollmonitor": "^1.2.4"
   }
 }
