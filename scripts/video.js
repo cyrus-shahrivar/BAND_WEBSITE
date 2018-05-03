@@ -6,8 +6,12 @@ $(document).ready(function () {
     var $videoContent = $('.content');
     var $videosTemplate = $('#videos-template').html();
     var displayedVideos = 0;
+    var $loadingSpinnerContainer = $('.loading-container');
     var $loadingSpinner = $('.loading');
     var allVideos;
+
+    Handlebars.registerPartial('videos-template', $videosTemplate);
+    var compiledTemplate = Handlebars.compile($videosTemplate);
 
     // Hero Animation
     $('.hero__video').on('ended', function () {
@@ -27,18 +31,42 @@ $(document).ready(function () {
         data.slice = allVideos.slice(0, numVideosToShow);
         displayedVideos += data.numVideosToShow;
 
-        Handlebars.registerPartial('videos-template', $videosTemplate);
-        var compiledTemplate = Handlebars.compile($videosTemplate);
         var compiledHtml = compiledTemplate(data);
         $loadingSpinner.hide();
         $videoContent.prepend(compiledHtml)
+
+        createScrollMonitor();
     });
 
     // Subsequent Content Loading
-    // TODO: When in view of loading container, show spinner, then load content, then hide spinner
+    function loadMoreContent() {
+        var minLoadingTime = 1000;
 
-    // NOTE: for demo purposes only
-    $('.content').click(function () {
-        $loadingSpinner.show();
-    })
+        setTimeout(function () {
+            var newStartSlice = displayedVideos;
+            var newEndSlice = displayedVideos + 3;
+            displayedVideos = newEndSlice;
+            var dataObj = {};
+
+            dataObj.slice = allVideos.slice(newStartSlice, newEndSlice);
+
+            $loadingSpinner.hide();
+
+            var compiledHtml = compiledTemplate(dataObj);
+            $loadingSpinnerContainer.before(compiledHtml);
+        }, minLoadingTime);
+    }
+
+
+    function createScrollMonitor(params) {
+        var myElement = $('.loading-container');
+        var elementWatcher = window.scrollMonitor.create( myElement );
+
+        elementWatcher.enterViewport(function() {
+            if (displayedVideos < allVideos.length) {
+                $loadingSpinner.show();
+                loadMoreContent();
+            }
+        });
+    }
 });
