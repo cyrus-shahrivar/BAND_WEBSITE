@@ -3,6 +3,8 @@ $(document).ready(function () {
     var isBeta = environment === 'beta';
     var environmentPathname = isBeta ? '/BAND_WEBSITE/' : '/';
 
+    var sectionPromises = [];
+
     // Nav Setup
     if (isBeta) {
         $('nav ul li a').each(function(){
@@ -55,6 +57,23 @@ $(document).ready(function () {
             data.environmentPathname = environmentPathname;
             var compiledHtml =sectionObj.compiledTemplate(data);
             sectionObj.$sectionElement.append(compiledHtml);
+
+            sectionPromises.push(Promise.resolve());
+
+            // Setup for scrolling to section from other pages
+            // HACK
+            if (sectionPromises.length === sections.length) {
+                Promise.all(sectionPromises).then(function () {
+                    $('*').on('load', function () {
+                        console.log('all sections loaded');
+
+                        var sectionId = window.location.hash;
+                        var $sectionToScrollTo = $(sectionId);
+
+                        $('html, body').scrollTop($sectionToScrollTo.offset().top);
+                    });
+                })
+            }
         });
     });
 })
