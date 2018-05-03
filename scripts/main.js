@@ -64,9 +64,10 @@ $(document).ready(function () {
             // HACK
             if (sectionPromises.length === sections.length) {
                 Promise.all(sectionPromises).then(function () {
-                    $('*').on('load', function () {
-                        console.log('all sections loaded');
-
+                    console.log('all sections loaded');
+                    // HACK, but better than *
+                    $('div.logo, section.hero, img, video').on('load', function () {
+                        console.log('all visible assets loaded');
                         var sectionId = window.location.hash;
                         var $sectionToScrollTo = $(sectionId);
 
