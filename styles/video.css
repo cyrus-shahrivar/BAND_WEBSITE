@@ -15,6 +15,12 @@ main {
     margin: 0 auto 30px;
 }
 
+.page__title ul,
+.page__title ul li {
+    margin: 0;
+    padding: 0;
+}
+
 /* Credit: Online Tutorials https://youtu.be/0JEzysYI2xk for Tubelight effect*/
 .page__title ul li {
     list-style: none;
@@ -27,6 +33,13 @@ main {
     animation: animate 2s 6 linear;
     display: inline-block;
 }
+
+@media (max-width: 500px) {
+    .page__title ul li {
+        font-size: 3em;
+    }
+}
+
 @keyframes animate {
     0% {
         color: #633695;
