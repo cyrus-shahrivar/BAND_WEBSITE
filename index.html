@@ -22,7 +22,7 @@
             <li><a class="nav-link" href="/">Home</a></li>
             <li><a class="nav-link" href="/#shows">Shows</a></li>
             <li><a class="nav-link" href="/#videos">Videos</a></li>
-            <li><a class="nav-link" href="/#pics">Pics</a></li>
+            <li><a class="nav-link" href="/pics.html">Pics</a></li>
             <li><a class="nav-link" href="/#about">About Us</a></li>
             <li><a class="nav-link" href="/#subscribe">Subscribe</a></li>
             <li><a class="nav-link" href="/#contact">Contact</a></li>
@@ -41,7 +41,6 @@
         <section class="content">
             <section class="shows-section"></section>
             <section class="videos-section"></section>
-            <section class="pics-section"></section>
             <section class="about-section"></section>
             <section class="subscribe-section"></section>
             <section class="contact-section"></section>
@@ -81,21 +80,6 @@
             <a href="/videos.html">More Videos --></a>
         </section>
     </script>
-    <script id="pics-template" type="text/x-handlebars-template">
-        <section id="pics" class="pics">
-            <header class="pics__header">{{contentName}}</header>
-            {{#each featuredPics}}
-                <div class="pics__pic-container">
-                    <a href="{{this.imageSrc}}" data-lightbox="lightbox-set" data-title="{{this.caption}}">
-                        <img class="pics__pic" src="{{this.imageSrc}}" alt="{{this.caption}} | {{this.credit}}">
-                    </a>
-                    <p class="pics__caption">{{this.caption}}</p>
-                </div>
-            {{/each}}
-            <a class="pics__more-pics" href="/pics.html">More Pics --></a>
-        </section>
-    </script>
-    <script id="pics-template" type="text/x-handlebars-template"></script>
     <script id="about-template" type="text/x-handlebars-template">
         <section id="about" class="about">
             <header class="about__header">{{contentName}}</header>

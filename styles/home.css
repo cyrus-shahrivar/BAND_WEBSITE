@@ -34,22 +34,6 @@
     position: absolute;
 }
 
-/* PICS */
-.pics__pic-container {
-    display: inline-block;
-    margin: 0 20px;
-}
-
-.pics__pic {
-    max-height: 300px;
-    display: block;
-    margin: 0 auto;
-}
-
-.pics__more-pics {
-    display: block;
-}
-
 /* ABOUT */
 .about__band-member {
     clear: both;
@@ -80,7 +64,6 @@
 /* MULTIPLE */
 .shows,
 .videos,
-.pics,
 .news,
 .about,
 .contact,
@@ -90,7 +73,6 @@
 
 .shows__header,
 .videos__header,
-.pics__header,
 .news__header,
 .about__header,
 .contact__header,
