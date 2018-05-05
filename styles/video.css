@@ -147,7 +147,7 @@ main {
 /* VIDEOS */
 .videos__video-container {
     display: inline-block;
-    width: 200px;
+    width: 300px;
     vertical-align: middle;
     margin-bottom: 10px;
 }
