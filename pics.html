@@ -45,7 +45,11 @@
                 <li>S</li>
             </ul>
         </header>
-        <section class="content"></section>
+        <section class="content">
+            <div class="loading-container">
+                <div class="loading"></div>
+            </div>
+        </section>
         <footer class="site-footer">
             <section class="copyright">&copy; 2018 PurpleGravyBand.com</section>
         </footer>
@@ -57,7 +61,7 @@
     <!-- TEMPLATES -->
     <script id="pics-template" type="text/x-handlebars-template">
         <section id="pics" class="pics">
-            {{#each allPics}}
+            {{#each slice}}
             <div class="pics__pics-row">
                 <header class="pics__header">{{eventTitle}}</header>
                     {{#each pics}}
