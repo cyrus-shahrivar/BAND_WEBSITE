@@ -7,8 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Purple Gravy</title>
     <!-- Styles -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Audiowide|Syncopate" rel="stylesheet">
     <link rel="stylesheet" href="styles/common.css">
+    <link href="styles/lightbox.min.css" rel="stylesheet">
     <link rel="stylesheet" href="styles/pics.css">
 </head>
 
@@ -30,6 +32,8 @@
             <a href="https://twitter.com/PurpleGravyBand" target="_blank"><i class="social-media__twitter" style="background-image: url('images/social/twitter-twitter.png');" data-rjs="2"></i></a>
             <a href="https://www.instagram.com/purplegravyband/" target="_blank"><i class="social-media__instagram" style="background-image: url('images/social/instagram.png');" data-rjs="2"></i></a>
         </section>
+        <div class="hamburger-open-button"><i class="fas fa-bars"></i></div>
+        <div class="x-close-button"><i class="fas fa-times"></i></div>
     </nav>
     <!-- MAIN CONTENT -->
     <main>
@@ -41,26 +45,6 @@
                 <li>S</li>
             </ul>
         </header>
-        <!-- HERO -->
-        <!-- <section class="hero">
-            <section class="logo">
-                <div>
-                    <span>P</span>
-                    <span>u</span>
-                    <span>r</span>
-                    <span>p</span>
-                    <span>l</span>
-                    <span>e</span>
-                </div>
-                <div>
-                    <span>G</span>
-                    <span>r</span>
-                    <span>a</span>
-                    <span>v</span>
-                    <span>y</span>
-                </div>
-            </section>
-        </section> -->
         <section class="content"></section>
         <footer class="site-footer">
             <section class="copyright">&copy; 2018 PurpleGravyBand.com</section>
@@ -68,10 +52,29 @@
     </main>
     <!-- SCRIPTS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="scripts/lightbox.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"></script>
     <!-- TEMPLATES -->
+    <script id="pics-template" type="text/x-handlebars-template">
+        <section id="pics" class="pics">
+            {{#each allPics}}
+            <div class="pics__pics-row">
+                <header class="pics__header">{{eventTitle}}</header>
+                    {{#each pics}}
+                        <div class="pics__pic-container">
+                            <a href="{{this.imageSrc}}" data-lightbox="lightbox-set-{{../eventTitle}}" data-title="{{this.caption}}">
+                                <!-- <img class="pics__pic" src="{{this.imageSrc}}" alt="{{this.caption}} | {{this.credit}}"> -->
+                                <div class="pics__pic" style="background: url({{this.imageSrc}}) center / cover no-repeat; height: 200px; width: 200px;" ></div>
+                            </a>
+                        </div>
+                    {{/each}}
+            </div>
+            {{/each}}
+        </section>
+    </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/2.1.3/retina.min.js"></script>
-    <!-- <script src="scripts/main.js"></script> -->
+    <script src="scripts/scrollMonitor.js"></script>
+    <script src="scripts/pics.js"></script>
 </body>
 
 </html>

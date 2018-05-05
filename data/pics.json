@@ -1,8 +1,8 @@
 {
     "contentName": "Pics",
-    "featuredPics": [
+    "allPics": [
         {
-            "eventTitle": "The Bitter End 2018",
+            "eventTitle": "The Bitter End 2018 - 1",
             "pics": [
                 {
                     "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
@@ -15,14 +15,29 @@
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/Audience2018.jpg",
-                    "caption": "The Bitter End 2/2018 - Audience Going Wild",
+                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                },
+                {
+                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
+                    "caption": "The Bitter End 2/2018 - Peddle Board",
+                    "credit": ""
+                },
+                {
+                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
+                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
+                    "credit": ""
+                },
+                {
+                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
                     "credit": ""
                 }
             ]
         },
         {
-            "eventTitle": "The Bitter End 2018",
+            "eventTitle": "The Bitter End 2018 - 2",
             "pics": [
                 {
                     "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
@@ -35,14 +50,14 @@
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/Audience2018.jpg",
-                    "caption": "The Bitter End 2/2018 - Audience Going Wild",
+                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
                     "credit": ""
                 }
             ]
         },
         {
-            "eventTitle": "The Bitter End 2018",
+            "eventTitle": "The Bitter End 2018 - 3",
             "pics": [
                 {
                     "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
@@ -55,8 +70,8 @@
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/Audience2018.jpg",
-                    "caption": "The Bitter End 2/2018 - Audience Going Wild",
+                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
                     "credit": ""
                 }
             ]

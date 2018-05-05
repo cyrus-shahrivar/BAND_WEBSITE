@@ -5,6 +5,7 @@ main {
 
 .content {
     position: relative;
+    padding: 0 20px;
 }
 
 .page__title {
@@ -112,6 +113,43 @@ main {
 }
 .page__title ul li:nth-child(11) {
     animation-delay: 2.6s;
+}
+
+.pics__header {
+    text-align: left;
+    border-bottom: #28bebf solid 2px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+@media (max-width: 500px) {
+    .pics__header {
+        font-size: 12px;
+    }
+}
+
+.pics__pics-row {
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+@media (max-width: 978px) {
+    .pics__pics-row {
+        text-align: center;
+    }
+}
+
+.pics__pic-container {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+.pics__pic-container a,
+.pics__pic-container a img {
+    width: 200px;
 }
 
 .loading-container {
