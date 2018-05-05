@@ -7,7 +7,7 @@ $(document).ready(function () {
 
     // Nav Setup
     if (isBeta) {
-        $('nav ul li a, nav-logo-link').each(function(){
+        $('nav ul li a, .nav-logo-link').each(function(){
             var currentHref = $(this).attr('href');
             $(this).attr('href', '/BAND_WEBSITE' + currentHref);
         });
