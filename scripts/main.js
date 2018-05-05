@@ -54,6 +54,7 @@ $(document).ready(function () {
             dataType: 'json',
             url: environmentPathname + 'data/' + sectionName + '.json'
           }).done(function(data) {
+            data.isBeta = isBeta;
             data.environmentPathname = environmentPathname;
             var compiledHtml =sectionObj.compiledTemplate(data);
             sectionObj.$sectionElement.append(compiledHtml);
