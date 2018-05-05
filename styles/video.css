@@ -152,6 +152,12 @@ main {
     margin-bottom: 10px;
 }
 
+@media (max-width: 500px) {
+    .videos__video-container {
+        width: 250px;
+    }
+}
+
 .videos-page__video {
     overflow: hidden;
     padding-bottom: 56.25%;
