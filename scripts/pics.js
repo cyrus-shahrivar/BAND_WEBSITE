@@ -4,6 +4,14 @@ $(document).ready(function () {
     var environmentPathname = isBeta ? '/BAND_WEBSITE/' : '/';
 
     // Setup Mobile Menu
+    // Nav Setup
+    if (isBeta) {
+        $('nav ul li a').each(function(){
+            var currentHref = $(this).attr('href');
+            $(this).attr('href', '/BAND_WEBSITE' + currentHref);
+        });
+    }
+
     var $body = $('body');
     var $hamburgerOpenButton = $('.hamburger-open-button');
     var $xCloseButton = $('.x-close-button');
