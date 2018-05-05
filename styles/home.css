@@ -55,7 +55,7 @@
 
 @media (max-width: 978px) {
     .about__image, .about__band-member:nth-child(odd) .about__image {
-        width: auto;
+        width: 100%;
         float: initial;
         display: block;
         margin: 0 auto;
