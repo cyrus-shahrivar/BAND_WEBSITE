@@ -47,6 +47,12 @@ nav ul li {
     font-size: 24px;
 }
 
+@media (max-width: 500px) {
+    nav ul li {
+        font-size: 14px;
+    }
+}
+
 nav ul li a {
     text-decoration: none;
 }
