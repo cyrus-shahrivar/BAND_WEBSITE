@@ -25,38 +25,35 @@ $(document).ready(function () {
         }
     })
 
+
     // Content Setup
-    var $videoContent = $('.content');
-    var $videosTemplate = $('#videos-template').html();
-    var displayedVideos = 0;
+    var $picsContent = $('.content');
+    var $picsTemplate = $('#pics-template').html();
+    var displayedPicShelfs = 0;
     var $loadingSpinnerContainer = $('.loading-container');
     var $loadingSpinner = $('.loading');
-    var allVideos;
+    var allPics;
 
-    Handlebars.registerPartial('videos-template', $videosTemplate);
-    var compiledTemplate = Handlebars.compile($videosTemplate);
 
-    // Hero Animation
-    $('.hero__video').on('ended', function () {
-        $(this).slideUp();
-    })
+    Handlebars.registerPartial('pics-template', $picsTemplate);
+    var compiledTemplate = Handlebars.compile($picsTemplate);
 
     // Initial Content Loading
     $loadingSpinner.show();
     $.ajax({
-        url: environmentPathname + 'data/videos.json',
+        url: environmentPathname + 'data/pics.json',
         dataType: 'json'
     }).done(function(data) {
-        var numVideosToShow = 3;
-        allVideos = data.allVideos;
+        var numPicsToShow = 3;
+        allPics = data.allPics;
         data.environmentPathname = environmentPathname;
-        data.numVideosToShow = numVideosToShow;
-        data.slice = allVideos.slice(0, numVideosToShow);
-        displayedVideos += data.numVideosToShow;
+        data.numPicsToShow = numPicsToShow;
+        data.slice = allPics.slice(0, numPicsToShow);
+        displayedPicShelfs += data.numPicsToShow;
 
         var compiledHtml = compiledTemplate(data);
         $loadingSpinner.hide();
-        $videoContent.prepend(compiledHtml)
+        $picsContent.prepend(compiledHtml)
 
         createScrollMonitor();
     });
