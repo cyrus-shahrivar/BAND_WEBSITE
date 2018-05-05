@@ -6,7 +6,7 @@ $(document).ready(function () {
     // Setup Mobile Menu
     // Nav Setup
     if (isBeta) {
-        $('nav ul li a').each(function(){
+        $('nav ul li a:not(.subscribe-link), nav-logo-link').each(function(){
             var currentHref = $(this).attr('href');
             $(this).attr('href', '/BAND_WEBSITE' + currentHref);
         });
