@@ -5,6 +5,7 @@ main {
 
 .content {
     position: relative;
+    padding: 0 20px;
 }
 
 .hero__video {
@@ -118,12 +119,44 @@ main {
     animation-delay: 2.6s;
 }
 
+.videos__header {
+    text-align: left;
+    border-bottom: #28bebf solid 2px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+@media (max-width: 500px) {
+    .videos__header {
+        font-size: 12px;
+    }
+}
+
+.videos__videos-row {
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+@media (max-width: 978px) {
+    .videos__videos-row {
+        text-align: center;
+    }
+}
+
 /* VIDEOS */
+.videos__video-container {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
 .videos-page__video {
     overflow: hidden;
     padding-bottom: 56.25%;
     position: relative;
-    margin: 30px;
+    /* margin: 30px; */
 }
 
 .videos-page__video iframe{
