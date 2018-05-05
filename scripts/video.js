@@ -36,7 +36,7 @@ $(document).ready(function () {
     // Content Setup
     var $videoContent = $('.content');
     var $videosTemplate = $('#videos-template').html();
-    var displayedVideos = 0;
+    var displayedVideoShelfs = 0;
     var $loadingSpinnerContainer = $('.loading-container');
     var $loadingSpinner = $('.loading');
     var allVideos;
@@ -61,7 +61,7 @@ $(document).ready(function () {
             data.environmentPathname = environmentPathname;
             data.numVideosToShow = numVideosToShow;
             data.slice = allVideos.slice(0, numVideosToShow);
-            displayedVideos += data.numVideosToShow;
+            displayedVideoShelfs += data.numVideosToShow;
 
             var compiledHtml = compiledTemplate(data);
             $loadingSpinner.hide();
@@ -79,9 +79,9 @@ $(document).ready(function () {
         var minLoadingTime = 1000;
 
         setTimeout(function () {
-            var newStartSlice = displayedVideos;
-            var newEndSlice = displayedVideos + 3;
-            displayedVideos = newEndSlice;
+            var newStartSlice = displayedVideoShelfs;
+            var newEndSlice = displayedVideoShelfs + 3;
+            displayedVideoShelfs = newEndSlice;
             var dataObj = {};
 
             dataObj.slice = allVideos.slice(newStartSlice, newEndSlice);
@@ -99,7 +99,7 @@ $(document).ready(function () {
         var elementWatcher = window.scrollMonitor.create( myElement );
 
         elementWatcher.enterViewport(function() {
-            if (displayedVideos < allVideos.length) {
+            if (displayedVideoShelfs < allVideos.length) {
                 $loadingSpinner.show();
                 loadMoreContent();
             }
