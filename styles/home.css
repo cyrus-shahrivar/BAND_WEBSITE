@@ -59,6 +59,7 @@
         float: initial;
         display: block;
         margin: 0 auto;
+        max-height: initial;
     }
 }
 
