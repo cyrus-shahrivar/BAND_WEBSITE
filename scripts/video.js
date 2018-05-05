@@ -54,20 +54,25 @@ $(document).ready(function () {
     $.ajax({
         url: environmentPathname + 'data/videos.json',
         dataType: 'json'
-    }).done(function(data) {
-        var numVideosToShow = 3;
-        allVideos = data.allVideos;
-        data.environmentPathname = environmentPathname;
-        data.numVideosToShow = numVideosToShow;
-        data.slice = allVideos.slice(0, numVideosToShow);
-        displayedVideos += data.numVideosToShow;
+    }).then(
+        function(data) {
+            var numVideosToShow = 3;
+            allVideos = data.allVideos;
+            data.environmentPathname = environmentPathname;
+            data.numVideosToShow = numVideosToShow;
+            data.slice = allVideos.slice(0, numVideosToShow);
+            displayedVideos += data.numVideosToShow;
 
-        var compiledHtml = compiledTemplate(data);
-        $loadingSpinner.hide();
-        $videoContent.prepend(compiledHtml)
+            var compiledHtml = compiledTemplate(data);
+            $loadingSpinner.hide();
+            $videoContent.prepend(compiledHtml)
 
-        createScrollMonitor();
-    });
+            createScrollMonitor();
+        },
+        function (jqXHR, textStatus, errorThrown) {
+            console.log('Error', errorThrown);
+        }
+    );
 
     // Subsequent Content Loading
     function loadMoreContent() {

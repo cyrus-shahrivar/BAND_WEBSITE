@@ -53,29 +53,34 @@ $(document).ready(function () {
         $.ajax({
             dataType: 'json',
             url: environmentPathname + 'data/' + sectionName + '.json'
-          }).done(function(data) {
-            data.isBeta = isBeta;
-            data.environmentPathname = environmentPathname;
-            var compiledHtml =sectionObj.compiledTemplate(data);
-            sectionObj.$sectionElement.append(compiledHtml);
+          }).then(
+            function(data) {
+                data.isBeta = isBeta;
+                data.environmentPathname = environmentPathname;
+                var compiledHtml =sectionObj.compiledTemplate(data);
+                sectionObj.$sectionElement.append(compiledHtml);
 
-            sectionPromises.push(Promise.resolve());
+                sectionPromises.push(Promise.resolve());
 
-            // Setup for scrolling to section from other pages
-            // HACK
-            if (sectionPromises.length === sections.length) {
-                Promise.all(sectionPromises).then(function () {
-                    console.log('all sections loaded');
-                    // HACK, but better than *
-                    $('div.logo, section.hero, img, video').on('load', function () {
-                        console.log('all visible assets loaded');
-                        var sectionId = window.location.hash;
-                        var $sectionToScrollTo = $(sectionId);
+                // Setup for scrolling to section from other pages
+                // HACK
+                if (sectionPromises.length === sections.length) {
+                    Promise.all(sectionPromises).then(function () {
+                        console.log('all sections loaded');
+                        // HACK, but better than *
+                        $('div.logo, section.hero, img, video').on('load', function () {
+                            console.log('all visible assets loaded');
+                            var sectionId = window.location.hash;
+                            var $sectionToScrollTo = $(sectionId);
 
-                        $('html, body').scrollTop($sectionToScrollTo.offset().top);
-                    });
-                })
+                            $('html, body').scrollTop($sectionToScrollTo.offset().top);
+                        });
+                    })
+                }
+            },
+            function (jqXHR, textStatus, errorThrown) {
+                console.log('Error', errorThrown);
             }
-        });
+        );
     });
 })

@@ -51,32 +51,37 @@ $(document).ready(function () {
     $.ajax({
         url: environmentPathname + 'data/pics.json',
         dataType: 'json'
-    }).done(function(data) {
-        var numPicsToShow = 3;
-        allPics = data.allPics;
-        data.environmentPathname = environmentPathname;
-        data.numPicsToShow = numPicsToShow;
-        data.slice = allPics.slice(0, numPicsToShow);
-        displayedPicShelfs += data.numPicsToShow;
+    }).then(
+        function(data) {
+            var numPicsToShow = 3;
+            allPics = data.allPics;
+            data.environmentPathname = environmentPathname;
+            data.numPicsToShow = numPicsToShow;
+            data.slice = allPics.slice(0, numPicsToShow);
+            displayedPicShelfs += data.numPicsToShow;
 
-        var compiledHtml = compiledTemplate(data);
-        $loadingSpinner.hide();
-        $picsContent.prepend(compiledHtml)
+            var compiledHtml = compiledTemplate(data);
+            $loadingSpinner.hide();
+            $picsContent.prepend(compiledHtml);
 
-        createScrollMonitor();
-    });
+            createScrollMonitor();
+        },
+        function (jqXHR, textStatus, errorThrown ) {
+            console.log('Error', errorThrown);
+        }
+    );
 
     // Subsequent Content Loading
     function loadMoreContent() {
         var minLoadingTime = 1000;
 
         setTimeout(function () {
-            var newStartSlice = displayedVideos;
-            var newEndSlice = displayedVideos + 3;
-            displayedVideos = newEndSlice;
+            var newStartSlice = displayedPicShelfs;
+            var newEndSlice = displayedPicShelfs + 3;
+            displayedPicShelfs = newEndSlice;
             var dataObj = {};
 
-            dataObj.slice = allVideos.slice(newStartSlice, newEndSlice);
+            dataObj.slice = allPics.slice(newStartSlice, newEndSlice);
 
             $loadingSpinner.hide();
 
@@ -91,7 +96,7 @@ $(document).ready(function () {
         var elementWatcher = window.scrollMonitor.create( myElement );
 
         elementWatcher.enterViewport(function() {
-            if (displayedVideos < allVideos.length) {
+            if (displayedPicShelfs < allPics.length) {
                 $loadingSpinner.show();
                 loadMoreContent();
             }
