@@ -71,9 +71,12 @@ $(document).ready(function () {
                         $('div.logo, section.hero, img, video').on('load', function () {
                             console.log('all visible assets loaded');
                             var sectionId = window.location.hash;
-                            var $sectionToScrollTo = $(sectionId);
 
-                            $('html, body').scrollTop($sectionToScrollTo.offset().top);
+                            if (sectionId) {
+                                var $sectionToScrollTo = $(sectionId);
+
+                                $('html, body').scrollTop($sectionToScrollTo.offset().top);
+                            }
                         });
                     })
                 }
