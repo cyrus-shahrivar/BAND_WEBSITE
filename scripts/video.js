@@ -1,3 +1,5 @@
+import scrollMonitor from 'scrollmonitor';
+
 $(document).ready(function () {
     var environment = window.location.host === 'cyrus-shahrivar.github.io' ? 'beta' : 'prod';
     var isBeta = environment === 'beta';

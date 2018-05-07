@@ -1,0 +1,94 @@
+@import '../common/styles/style.less';
+
+/* HERO */
+.hero {
+    text-align: center;
+    height: 100vh;
+    position: relative;
+}
+
+/* CONTENT */
+.content {
+    color: white;
+    text-align: center;
+    padding: 0 20px;
+}
+
+/* SHOWS */
+.shows_show {
+    margin-bottom: 30px;
+}
+
+/* VIDEOS */
+.videos__video {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    margin: 30px;
+}
+
+.videos__video iframe{
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+/* ABOUT */
+.about__band-member {
+    clear: both;
+    overflow: auto;
+    /* THIS MIGHT BE TOO MUCH STYLING */
+    /* background: linear-gradient(to bottom,#47015B ,#000000 60%); */
+}
+
+.about__image {
+    max-height: 350px;
+    width: 50%;
+    float: right;
+}
+
+.about__band-member:nth-child(odd) .about__image {
+    float: left;
+}
+
+@media (max-width: 978px) {
+    .about__image, .about__band-member:nth-child(odd) .about__image {
+        width: 100%;
+        float: initial;
+        display: block;
+        margin: 0 auto;
+        max-height: initial;
+    }
+}
+
+/* MULTIPLE */
+.shows,
+.videos,
+.news,
+.about,
+.contact,
+.subscribe {
+    margin-bottom: 50px;
+}
+
+.shows__header,
+.videos__header,
+.news__header,
+.about__header,
+.contact__header,
+.subscribe__header {
+    font-family: 'Audiowide', cursive;
+    font-size: 36px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    color: #e572fd;
+    text-shadow: 0 0 3px #28bebf, 0 0 3px #1e9191;
+}
+
+.show__header,
+.news-piece__header {
+    font-size: 20px;
+}

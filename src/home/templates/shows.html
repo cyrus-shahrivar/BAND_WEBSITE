@@ -1,0 +1,15 @@
+<section id="shows" class="shows">
+    <header class="shows__header">{{contentName}}</header>
+    {{#if shows.length}}
+        {{#each shows}}
+            <div class="shows_show">
+                <header class="show__header">{{{showName}}}</header>
+                {{#each showDetails}}
+                    <p class="show__detail">{{{this}}}</p>
+                {{/each}}
+            </div>
+        {{/each}}
+    {{else}}
+        <div>No shows at this time. Check back later.</div>
+    {{/if}}
+</section>
