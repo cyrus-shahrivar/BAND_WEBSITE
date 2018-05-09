@@ -1,4 +1,4 @@
-# Purple Gravy Band Website
+# Cosmic Storm Band Website
 
 ## Data Updates
 
