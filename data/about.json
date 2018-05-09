@@ -2,16 +2,6 @@
     "contentName": "About",
     "bandMembers": [
         {
-            "bandName": "BROTHER SMOOTH",
-            "name": "Sattam Deb",
-            "roles": "Singer, Keyboards, Guitar",
-            "description": [
-                "Sattam has been the main songwriter for the band over the years originally on guitar he as been persuaded to use his talents on the keys and has enabled a new sound to the band.",
-                "He has the ability to sing the funkiest dance tunes and then turn it down for some smooth ballads."
-            ],
-            "image": "./images/photos/Bitter-End-2018-02-15/BitterEnd-4.png"
-        },
-        {
             "bandName": "FUNKBURY",
             "name": "Mark Westbury",
             "roles": "Drummer, Backing Vocalist",
