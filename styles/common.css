@@ -1,7 +1,10 @@
 body {
     margin: 0;
     padding: 0;
-    background: #262626;
+    background: #221e1e;
+    background-image: url(https://thefulldomeblog.files.wordpress.com/2013/11/example_render.jpg);
+    background-size: contain;
+    background-position: center;
     font-family: 'Syncopate', sans-serif;
     font-size: 12px;
 }
@@ -17,7 +20,7 @@ nav {
     bottom: 0;
     left: 0;
     width: 300px;
-    background-color: purple;
+    background-color: #09308B;
     color: white;
 }
 
