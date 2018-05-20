@@ -1,7 +1,7 @@
 $(document).ready(function () {
     var environment = window.location.host === 'cyrus-shahrivar.github.io' ? 'beta' : 'prod';
     var isBeta = environment === 'beta';
-    var environmentPathname = isBeta ? '/BAND_WEBSITE/' : '/';
+    var environmentPathname = isBeta ? '/CosmicStormBeta/' : '/';
 
     var sectionPromises = [];
 
@@ -9,7 +9,7 @@ $(document).ready(function () {
     if (isBeta) {
         $('nav ul li a, .nav-logo-link').each(function(){
             var currentHref = $(this).attr('href');
-            $(this).attr('href', '/BAND_WEBSITE' + currentHref);
+            $(this).attr('href', '/CosmicStormBeta' + currentHref);
         });
     }
 

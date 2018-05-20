@@ -1,5 +1,5 @@
 {
-  "name": "band_website",
+  "name": "CosmicStormBeta",
   "version": "1.0.0",
   "description": "## Data Updates",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyrus-shahrivar/BAND_WEBSITE.git"
+    "url": "git+https://github.com/cyrus-shahrivar/CosmicStormBeta.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cyrus-shahrivar/BAND_WEBSITE/issues"
+    "url": "https://github.com/cyrus-shahrivar/CosmicStormBeta/issues"
   },
-  "homepage": "https://github.com/cyrus-shahrivar/BAND_WEBSITE#readme",
+  "homepage": "https://github.com/cyrus-shahrivar/CosmicStormBeta#readme",
   "dependencies": {
     "lightbox2": "^2.10.0",
     "scrollmonitor": "^1.2.4"
